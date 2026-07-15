@@ -1,0 +1,623 @@
+
+    topic7: {
+        id: "topic7",
+        title: "植物、物品篇",
+        sentences: [
+            "O maan konini? (這是什麼?)",
+            "Mafana' kiso to nini? (你知道這個嗎?)",
+            "Samanen ko ngiha' nonini? (這個怎麼叫?)"
+        ],
+        dicePrompts: ["ira ko...", "ira ko...", "ira ko..."],
+        gridData: {
+          "a": {
+                    "amis": "varu",
+                    "chinese": "花",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_09.wav"
+          },
+          "b": {
+                    "amis": "rengus",
+                    "chinese": "草",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153053/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_053648_qlkdju.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_20.wav"
+          },
+          "c": {
+                    "amis": "kilang",
+                    "chinese": "樹",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_03.wav"
+          },
+          "d": {
+                    "amis": "papah",
+                    "chinese": "葉子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_06.wav"
+          },
+          "e": {
+                    "amis": "vunga",
+                    "chinese": "地瓜",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_56.wav"
+          },
+          "f": {
+                    "amis": "taviras",
+                    "chinese": "玉米",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_12.wav"
+          },
+          "g": {
+                    "amis": "savak",
+                    "chinese": "稻子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_02.wav"
+          },
+          "h": {
+                    "amis": "pawli",
+                    "chinese": "香蕉",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_01.wav"
+          },
+          "i": {
+                    "amis": "kama",
+                    "chinese": "橘子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_08.wav"
+          },
+          "j": {
+                    "amis": "cudad",
+                    "chinese": "書",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_01.wav"
+          },
+          "o": {
+                    "amis": "sapisurit",
+                    "chinese": "筆",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_06.wav"
+          },
+          "p": {
+                    "amis": "savuric",
+                    "chinese": "橡皮擦",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_70.wav"
+          },
+          "q": {
+                    "amis": "sapad",
+                    "chinese": "桌子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_04.wav"
+          },
+          "r": {
+                    "amis": "elun",
+                    "chinese": "椅子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_07.wav"
+          },
+          "s": {
+                    "amis": "pida",
+                    "chinese": "錢",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_02.wav"
+          },
+          "t": {
+                    "amis": "vuduy",
+                    "chinese": "衣服",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156556/riko_wjbvww.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/18_02.wav"
+          },
+          "u": {
+                    "amis": "cacevaren",
+                    "chinese": "雨傘",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_10.wav"
+          },
+          "v": {
+                    "amis": "telay/dingwa",
+                    "chinese": "電話",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_05.wav"
+          },
+          "w": {
+                    "amis": "mali",
+                    "chinese": "球",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_03.wav"
+          },
+          "x": {
+                    "amis": "tuper",
+                    "chinese": "帽子",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157561/hate_lioojn.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/18_01.wav"
+          }
+},
+        gridDataByDialect: {
+          "南勢阿美語": {
+                    "a": {
+                              "amis": "varu",
+                              "chinese": "花",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_09.wav"
+                    },
+                    "b": {
+                              "amis": "rengus",
+                              "chinese": "草",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153053/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_053648_qlkdju.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_20.wav"
+                    },
+                    "c": {
+                              "amis": "kilang",
+                              "chinese": "樹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_03.wav"
+                    },
+                    "d": {
+                              "amis": "papah",
+                              "chinese": "葉子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_06.wav"
+                    },
+                    "e": {
+                              "amis": "vunga",
+                              "chinese": "地瓜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_56.wav"
+                    },
+                    "f": {
+                              "amis": "taviras",
+                              "chinese": "玉米",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_12.wav"
+                    },
+                    "g": {
+                              "amis": "savak",
+                              "chinese": "稻子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_02.wav"
+                    },
+                    "h": {
+                              "amis": "pawli",
+                              "chinese": "香蕉",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_01.wav"
+                    },
+                    "i": {
+                              "amis": "kama",
+                              "chinese": "橘子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/08_08.wav"
+                    },
+                    "j": {
+                              "amis": "cudad",
+                              "chinese": "書",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_01.wav"
+                    },
+                    "o": {
+                              "amis": "sapisurit",
+                              "chinese": "筆",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_06.wav"
+                    },
+                    "p": {
+                              "amis": "savuric",
+                              "chinese": "橡皮擦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_70.wav"
+                    },
+                    "q": {
+                              "amis": "sapad",
+                              "chinese": "桌子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_04.wav"
+                    },
+                    "r": {
+                              "amis": "elun",
+                              "chinese": "椅子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_07.wav"
+                    },
+                    "s": {
+                              "amis": "pida",
+                              "chinese": "錢",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_02.wav"
+                    },
+                    "t": {
+                              "amis": "vuduy",
+                              "chinese": "衣服",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156556/riko_wjbvww.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/18_02.wav"
+                    },
+                    "u": {
+                              "amis": "cacevaren",
+                              "chinese": "雨傘",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_10.wav"
+                    },
+                    "v": {
+                              "amis": "telay/dingwa",
+                              "chinese": "電話",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_05.wav"
+                    },
+                    "w": {
+                              "amis": "mali",
+                              "chinese": "球",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/09_03.wav"
+                    },
+                    "x": {
+                              "amis": "tuper",
+                              "chinese": "帽子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157561/hate_lioojn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/18_01.wav"
+                    }
+          },
+          "海岸阿美語": {
+                    "a": {
+                              "amis": "hana",
+                              "chinese": "花",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_09.wav"
+                    },
+                    "b": {
+                              "amis": "rengos",
+                              "chinese": "草",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153053/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_053648_qlkdju.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_20.wav"
+                    },
+                    "c": {
+                              "amis": "kilang",
+                              "chinese": "樹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_03.wav"
+                    },
+                    "d": {
+                              "amis": "papah",
+                              "chinese": "葉子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_06.wav"
+                    },
+                    "e": {
+                              "amis": "konga",
+                              "chinese": "地瓜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_56.wav"
+                    },
+                    "f": {
+                              "amis": "'ariray",
+                              "chinese": "玉米",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_12.wav"
+                    },
+                    "g": {
+                              "amis": "panay",
+                              "chinese": "稻子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_02.wav"
+                    },
+                    "h": {
+                              "amis": "pawli",
+                              "chinese": "香蕉",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_01.wav"
+                    },
+                    "i": {
+                              "amis": "mami'",
+                              "chinese": "橘子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/08_08.wav"
+                    },
+                    "j": {
+                              "amis": "codad",
+                              "chinese": "書",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_01.wav"
+                    },
+                    "o": {
+                              "amis": "impic",
+                              "chinese": "筆",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_06.wav"
+                    },
+                    "p": {
+                              "amis": "sararop",
+                              "chinese": "橡皮擦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_70.wav"
+                    },
+                    "q": {
+                              "amis": "parad",
+                              "chinese": "桌子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_04.wav"
+                    },
+                    "r": {
+                              "amis": "'anengan",
+                              "chinese": "椅子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_07.wav"
+                    },
+                    "s": {
+                              "amis": "payso",
+                              "chinese": "錢",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_02.wav"
+                    },
+                    "t": {
+                              "amis": "riko'",
+                              "chinese": "衣服",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156556/riko_wjbvww.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/18_02.wav"
+                    },
+                    "u": {
+                              "amis": "linay",
+                              "chinese": "雨傘",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_10.wav"
+                    },
+                    "v": {
+                              "amis": "tingwa",
+                              "chinese": "電話",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_05.wav"
+                    },
+                    "w": {
+                              "amis": "mali",
+                              "chinese": "球",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/09_03.wav"
+                    },
+                    "x": {
+                              "amis": "kafong",
+                              "chinese": "帽子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157561/hate_lioojn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/18_01.wav"
+                    }
+          },
+          "馬蘭阿美語": {
+                    "a": {
+                              "amis": "falo",
+                              "chinese": "花",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_09.wav"
+                    },
+                    "b": {
+                              "amis": "rengos",
+                              "chinese": "草",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153053/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_053648_qlkdju.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_20.wav"
+                    },
+                    "c": {
+                              "amis": "kilang",
+                              "chinese": "樹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_03.wav"
+                    },
+                    "d": {
+                              "amis": "papah",
+                              "chinese": "葉子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_06.wav"
+                    },
+                    "e": {
+                              "amis": "konga",
+                              "chinese": "地瓜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_56.wav"
+                    },
+                    "f": {
+                              "amis": "ariray",
+                              "chinese": "玉米",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_12.wav"
+                    },
+                    "g": {
+                              "amis": "adas",
+                              "chinese": "稻子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_02.wav"
+                    },
+                    "h": {
+                              "amis": "pawli",
+                              "chinese": "香蕉",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_01.wav"
+                    },
+                    "i": {
+                              "amis": "asilo",
+                              "chinese": "橘子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/08_08.wav"
+                    },
+                    "j": {
+                              "amis": "tilid",
+                              "chinese": "書",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_01.wav"
+                    },
+                    "o": {
+                              "amis": "impic",
+                              "chinese": "筆",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_06.wav"
+                    },
+                    "p": {
+                              "amis": "sasipasip",
+                              "chinese": "橡皮擦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_70.wav"
+                    },
+                    "q": {
+                              "amis": "cokowi",
+                              "chinese": "桌子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_04.wav"
+                    },
+                    "r": {
+                              "amis": "hakenang",
+                              "chinese": "椅子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_07.wav"
+                    },
+                    "s": {
+                              "amis": "payci",
+                              "chinese": "錢",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_02.wav"
+                    },
+                    "t": {
+                              "amis": "riko'",
+                              "chinese": "衣服",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156556/riko_wjbvww.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/18_02.wav"
+                    },
+                    "u": {
+                              "amis": "dinay",
+                              "chinese": "雨傘",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_10.wav"
+                    },
+                    "v": {
+                              "amis": "tingwa",
+                              "chinese": "電話",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_05.wav"
+                    },
+                    "w": {
+                              "amis": "mali",
+                              "chinese": "球",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/09_03.wav"
+                    },
+                    "x": {
+                              "amis": "kafong",
+                              "chinese": "帽子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157561/hate_lioojn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/18_01.wav"
+                    }
+          },
+          "秀姑巒阿美語": {
+                    "a": {
+                              "amis": "falo / hana",
+                              "chinese": "花",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_09.wav"
+                    },
+                    "b": {
+                              "amis": "semot",
+                              "chinese": "草",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153053/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_053648_qlkdju.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_20.wav"
+                    },
+                    "c": {
+                              "amis": "kilang",
+                              "chinese": "樹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_03.wav"
+                    },
+                    "d": {
+                              "amis": "papah",
+                              "chinese": "葉子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_06.wav"
+                    },
+                    "e": {
+                              "amis": "fonga",
+                              "chinese": "地瓜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_56.wav"
+                    },
+                    "f": {
+                              "amis": "'ariray",
+                              "chinese": "玉米",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_12.wav"
+                    },
+                    "g": {
+                              "amis": "panay",
+                              "chinese": "稻子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_02.wav"
+                    },
+                    "h": {
+                              "amis": "pawli",
+                              "chinese": "香蕉",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_01.wav"
+                    },
+                    "i": {
+                              "amis": "mami'",
+                              "chinese": "橘子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/08_08.wav"
+                    },
+                    "j": {
+                              "amis": "codad",
+                              "chinese": "書",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_01.wav"
+                    },
+                    "o": {
+                              "amis": "impic",
+                              "chinese": "筆",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_06.wav"
+                    },
+                    "p": {
+                              "amis": "sasisit",
+                              "chinese": "橡皮擦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_70.wav"
+                    },
+                    "q": {
+                              "amis": "sapad",
+                              "chinese": "桌子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_04.wav"
+                    },
+                    "r": {
+                              "amis": "anengang",
+                              "chinese": "椅子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_07.wav"
+                    },
+                    "s": {
+                              "amis": "pida / payso",
+                              "chinese": "錢",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_02.wav"
+                    },
+                    "t": {
+                              "amis": "fodoy",
+                              "chinese": "衣服",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156556/riko_wjbvww.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/18_02.wav"
+                    },
+                    "u": {
+                              "amis": "linay / cacelakan",
+                              "chinese": "雨傘",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_10.wav"
+                    },
+                    "v": {
+                              "amis": "tingwa",
+                              "chinese": "電話",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_05.wav"
+                    },
+                    "w": {
+                              "amis": "mali",
+                              "chinese": "球",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/09_03.wav"
+                    },
+                    "x": {
+                              "amis": "kafong",
+                              "chinese": "帽子",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157561/hate_lioojn.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/18_01.wav"
+                    }
+          }
+}
+    }

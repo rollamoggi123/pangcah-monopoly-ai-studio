@@ -1,0 +1,25 @@
+id,amis,chinese,image,sound,color
+TITLE,恆春阿美語 山川地理+自然景觀（基本詞彙版）,,,,
+SENTENCES,O maan konini? (這是什麼?)|Mafana' kiso to nini? (你知道這個嗎?)|Samanen ko ngiha' nonini? (這個怎麼叫?),,,,
+DICE,ira ko...|ira ko...|ira ko...,,,,
+a,lotok,山,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510534/amis_audio/sp_junior/did5_11_1.mp3,#bae6fd
+b,loma',家,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510535/amis_audio/sp_junior/did5_11_2.mp3,#ffe8b3
+c,kongkoan,學校,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510539/amis_audio/sp_junior/did5_11_4.mp3,#fb8c00
+d,cidal,太陽,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510541/amis_audio/sp_junior/did5_11_5.mp3,#e63946
+e,folad,月亮,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510543/amis_audio/sp_junior/did5_11_6.mp3,#f48fb1
+f,fo'is,星星,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510545/amis_audio/sp_junior/did5_11_7.mp3,#66bb6a
+g,o'ol;carofacof,雲,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510705/amis_audio/vocabulary/did5_11_12.wav,#ba68c8
+h,lidek,彩虹,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510547/amis_audio/sp_junior/did5_11_8.mp3,#fdd835
+i,kakalayan,天空,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510549/amis_audio/sp_junior/did5_11_9.mp3,#4db6ac
+j,lotolotokan,山林,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510688/amis_audio/vocabulary/did5_10_02.wav,#ff8a65
+k,alo,小溪,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510692/amis_audio/vocabulary/did5_10_03.wav,#bae6fd
+l,ma'orad,下雨,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510694/amis_audio/vocabulary/did5_11_01.wav,#ffe8b3
+m,orad,雨,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510697/amis_audio/vocabulary/did5_11_06.wav,#fb8c00
+n,katiposan,冬天,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510699/amis_audio/vocabulary/did5_11_08.wav,#e63946
+o,laloodan,夏天,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510703/amis_audio/vocabulary/did5_11_09.wav,#f48fb1
+p,o'ol;carofacof,彩雲,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-05-16_215605_d5jjjq.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510705/amis_audio/vocabulary/did5_11_12.wav,#66bb6a
+q,kacanglahan,春天,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510708/amis_audio/vocabulary/did5_11_25.wav,#ba68c8
+r,kafarawfawan,秋天,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510710/amis_audio/vocabulary/did5_11_27.wav,#fdd835
+s,micelem ko cidal,日落,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510713/amis_audio/vocabulary/did5_11_29.wav,#4db6ac
+t,to'eman,天黑,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510716/amis_audio/vocabulary/did5_11_30.wav,#ff8a65
+u,mafaliyos,刮颱風,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png,https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510718/amis_audio/vocabulary/did5_11_32.wav,#bae6fd

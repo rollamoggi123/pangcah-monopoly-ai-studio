@@ -1,0 +1,1007 @@
+
+    topic8: {
+        id: "topic8",
+        title: "5語版 -阿美語山川地理_自然景觀_基本詞彙版",
+        sentences: [
+            "O maan konini? (這是什麼?)",
+            "Mafana' kiso to nini? (你知道這個嗎?)"
+        ],
+        dicePrompts: ["ira ko...", "ira ko...", "ira ko..."],
+        gridData: {
+          "a": {
+                    "amis": "lotok",
+                    "chinese": "山",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_1.mp3",
+                    "color": "#bae6fd"
+          },
+          "b": {
+                    "amis": "loma'",
+                    "chinese": "家",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_2.mp3",
+                    "color": "#ffe8b3"
+          },
+          "c": {
+                    "amis": "picodadan",
+                    "chinese": "學校",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_3.mp3",
+                    "color": "#fb8c00"
+          },
+          "d": {
+                    "amis": "cidal",
+                    "chinese": "太陽",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_4.mp3",
+                    "color": "#e63946"
+          },
+          "e": {
+                    "amis": "folad",
+                    "chinese": "月亮",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_5.mp3",
+                    "color": "#f48fb1"
+          },
+          "f": {
+                    "amis": "fo'is",
+                    "chinese": "星星",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_6.mp3",
+                    "color": "#66bb6a"
+          },
+          "g": {
+                    "amis": "o'ol / cahid",
+                    "chinese": "雲",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_7.mp3",
+                    "color": "#ba68c8"
+          },
+          "h": {
+                    "amis": "tarakar ni idek / tilo ni idek",
+                    "chinese": "彩虹",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_8.mp3",
+                    "color": "#fdd835"
+          },
+          "i": {
+                    "amis": "kakarayan",
+                    "chinese": "天空",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_9.mp3",
+                    "color": "#4db6ac"
+          },
+          "j": {
+                    "amis": "kilakilangan",
+                    "chinese": "山林",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_02.wav",
+                    "color": "#ff8a65"
+          },
+          "o": {
+                    "amis": "alo",
+                    "chinese": "小溪",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_03.wav",
+                    "color": "#bae6fd"
+          },
+          "p": {
+                    "amis": "ma'orad",
+                    "chinese": "下雨",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_01.wav",
+                    "color": "#ffe8b3"
+          },
+          "q": {
+                    "amis": "orad",
+                    "chinese": "雨",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_06.wav",
+                    "color": "#fb8c00"
+          },
+          "r": {
+                    "amis": "kaciherangan/lalood",
+                    "chinese": "夏天",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_09.wav",
+                    "color": "#f48fb1"
+          },
+          "s": {
+                    "amis": "kacanglahan",
+                    "chinese": "春天",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_25.wav",
+                    "color": "#66bb6a"
+          },
+          "t": {
+                    "amis": "kafarawfawan",
+                    "chinese": "秋天",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_27.wav",
+                    "color": "#ba68c8"
+          },
+          "u": {
+                    "amis": "kasienawan",
+                    "chinese": "冬天",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_08.wav",
+                    "color": "#e63946"
+          },
+          "v": {
+                    "amis": "micelem to ko cidal",
+                    "chinese": "日落",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_29.wav",
+                    "color": "#fdd835"
+          },
+          "w": {
+                    "amis": "masefad to ko to'man",
+                    "chinese": "天黑",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_30.wav",
+                    "color": "#4db6ac"
+          },
+          "x": {
+                    "amis": "kafaliyosan",
+                    "chinese": "刮颱風",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_32.wav",
+                    "color": "#ff8a65"
+          }
+},
+        gridDataByDialect: {
+          "秀姑巒阿美語": {
+                    "a": {
+                              "amis": "lotok",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "loma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "picodadan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "folad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "fo'is",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "o'ol / cahid",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "tarakar ni idek / tilo ni idek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "kakarayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "kilakilangan",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "alo",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ma'orad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "orad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "kaciherangan/lalood",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_25.wav",
+                              "color": "#66bb6a"
+                    },
+                    "t": {
+                              "amis": "kafarawfawan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_27.wav",
+                              "color": "#ba68c8"
+                    },
+                    "u": {
+                              "amis": "kasienawan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "micelem to ko cidal",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_29.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "masefad to ko to'man",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_30.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "kafaliyosan",
+                              "chinese": "刮颱風",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_32.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "海岸阿美語": {
+                    "a": {
+                              "amis": "lotok",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "loma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "pitilidan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "folad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "fo'is",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "kadit",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "tilo ni Idek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "kakarayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/11_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "lotolotokan",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "cieci'",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ma'orad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "orad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "kaciherangan",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_25.wav",
+                              "color": "#66bb6a"
+                    },
+                    "t": {
+                              "amis": "kalaloodan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_27.wav",
+                              "color": "#ba68c8"
+                    },
+                    "u": {
+                              "amis": "kasienawan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "hakakerem",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_29.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "to'eman",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_30.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "mafaliyos",
+                              "chinese": "刮颱風",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/11_32.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "南勢阿美語": {
+                    "a": {
+                              "amis": "lutuk",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "luma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "cacudadan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "vulad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "vuis",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "kutem",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "talakal ni Adek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "kakarayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/11_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "kilakilangan",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "sauwac",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "maurad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "urad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "kalaludan",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_25.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "kasariwsiwan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_27.wav",
+                              "color": "#fdd835"
+                    },
+                    "u": {
+                              "amis": "kasienawan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "kacereman nu cidal",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_29.wav",
+                              "color": "#4db6ac"
+                    },
+                    "w": {
+                              "amis": "tuemanan",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/11_30.wav",
+                              "color": "#ff8a65"
+                    },
+                    "x": {
+                              "amis": "",
+                              "chinese": "刮颱風",
+                              "image": "",
+                              "sound": "",
+                              "color": "#bae6fd"
+                    }
+          },
+          "馬蘭阿美語": {
+                    "a": {
+                              "amis": "tokos",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "loma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kongkoan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "folad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "fo'is",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "toem",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "talakar ni Idek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "kakarayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/11_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "lotok",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "ci'ci'",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ma'orad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "orad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "laloodan",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_25.wav",
+                              "color": "#66bb6a"
+                    },
+                    "t": {
+                              "amis": "kafarawfawan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_27.wav",
+                              "color": "#ba68c8"
+                    },
+                    "u": {
+                              "amis": "kasienawan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "maringaring",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_29.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "to'eman",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_30.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "mafaliyos",
+                              "chinese": "刮颱風",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/11_32.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "恆春阿美語": {
+                    "a": {
+                              "amis": "lotok",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "loma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kongkoan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_4.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_5.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "fulad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_6.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "fu'is",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_7.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "o'ol ; carofacof",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_12.wav",
+                              "color": "#4db6ac"
+                    },
+                    "h": {
+                              "amis": "lidek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_8.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "i": {
+                              "amis": "kakalayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/11_9.mp3",
+                              "color": "#fdd835"
+                    },
+                    "j": {
+                              "amis": "lotolotokan",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "alo",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ma'orad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "orad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "laloodan",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_25.wav",
+                              "color": "#66bb6a"
+                    },
+                    "t": {
+                              "amis": "kafarawfawan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_27.wav",
+                              "color": "#ba68c8"
+                    },
+                    "u": {
+                              "amis": "katiposan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "micelem ko cidal",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_29.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "to'eman",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_30.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "mafaliyos",
+                              "chinese": "刮颱風",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/11_32.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "預設": {
+                    "a": {
+                              "amis": "lotok",
+                              "chinese": "山",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "loma'",
+                              "chinese": "家",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "picodadan",
+                              "chinese": "學校",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "cidal",
+                              "chinese": "太陽",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "folad",
+                              "chinese": "月亮",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "fo'is",
+                              "chinese": "星星",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "o'ol / cahid",
+                              "chinese": "雲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "tarakar ni idek / tilo ni idek",
+                              "chinese": "彩虹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "kakarayan",
+                              "chinese": "天空",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/11_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "kilakilangan",
+                              "chinese": "山林",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_02.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "alo",
+                              "chinese": "小溪",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/10_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ma'orad",
+                              "chinese": "下雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_01.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "orad",
+                              "chinese": "雨",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_06.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "kaciherangan/lalood",
+                              "chinese": "夏天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "s": {
+                              "amis": "kacanglahan",
+                              "chinese": "春天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_25.wav",
+                              "color": "#66bb6a"
+                    },
+                    "t": {
+                              "amis": "kafarawfawan",
+                              "chinese": "秋天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_27.wav",
+                              "color": "#ba68c8"
+                    },
+                    "u": {
+                              "amis": "kasienawan",
+                              "chinese": "冬天",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_08.wav",
+                              "color": "#e63946"
+                    },
+                    "v": {
+                              "amis": "micelem to ko cidal",
+                              "chinese": "日落",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_29.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "masefad to ko to'man",
+                              "chinese": "天黑",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_30.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "kafaliyosan",
+                              "chinese": "刮颱風",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/11_32.wav",
+                              "color": "#ff8a65"
+                    }
+          }
+}
+    }
+  

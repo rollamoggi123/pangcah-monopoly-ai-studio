@@ -1,0 +1,712 @@
+{
+  "南勢阿美語": {
+    "a": {
+      "amis": "vuhecalay",
+      "chinese": "白色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779573998/%E7%99%BD%E8%89%B2_gcsfaf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531898/amis_audio/vocabulary/did1_22_01.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "muhetingay",
+      "chinese": "黑色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574004/%E9%BB%91%E8%89%B2_q18ewk.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531901/amis_audio/vocabulary/did1_22_02.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "lahengangay",
+      "chinese": "紅色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574081/%E7%B4%85%E8%89%B2_ezcgez.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531903/amis_audio/vocabulary/did1_22_03.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "langdaway",
+      "chinese": "綠色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574225/%E7%B6%A0%E8%89%B2_wt1c6d.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531906/amis_audio/vocabulary/did1_22_08.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "kulit",
+      "chinese": "顏色",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574443/%E9%A1%8F%E8%89%B2_zkc65x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531909/amis_audio/vocabulary/did1_22_09.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "lavii",
+      "chinese": "晚上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531911/amis_audio/vocabulary/did1_13_02.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "nacila",
+      "chinese": "昨天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575782/%E6%98%A8%E5%A4%A9_nmutvj.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531913/amis_audio/vocabulary/did1_13_03.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "anucila",
+      "chinese": "明天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576026/%E6%98%8E%E5%A4%A9_rghput.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531916/amis_audio/vocabulary/did1_13_04.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "anini",
+      "chinese": "今天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575726/%E4%BB%8A%E5%A4%A9_qplqjs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531918/amis_audio/vocabulary/did1_13_05.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "davak",
+      "chinese": "早上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574698/%E6%97%A9%E4%B8%8A_wbr1af.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531920/amis_audio/vocabulary/did1_13_06.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "herek nu lahuk",
+      "chinese": "下午",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574783/%E4%B8%8B%E5%8D%88_dfyxvy.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531923/amis_audio/vocabulary/did1_13_25.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "anini",
+      "chinese": "現在",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575907/%E7%8F%BE%E5%9C%A8_wvirb9.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531926/amis_audio/vocabulary/did1_13_30.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "naay",
+      "chinese": "不要",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575485/%E4%B8%8D%E8%A6%81_hjulv8.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531928/amis_audio/vocabulary/did1_35_01.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "akaa",
+      "chinese": "不可以",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531930/amis_audio/vocabulary/did1_35_02.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "caay",
+      "chinese": "不是",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575599/%E4%B8%8D%E6%98%AF_zxvpnl.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531933/amis_audio/vocabulary/did1_35_03.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "awaay",
+      "chinese": "沒有",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576070/%E6%B2%A1%E6%9C%89_o6bptz.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531935/amis_audio/vocabulary/did1_35_04.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "naw'ay",
+      "chinese": "不要(祈使)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531938/amis_audio/vocabulary/did1_35_05.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "caay kavana'",
+      "chinese": "不知道",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575247/%E4%B8%8D%E7%9F%A5%E9%81%93_qa6uhg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531941/amis_audio/vocabulary/did1_35_06.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "itini",
+      "chinese": "這裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575091/%E9%80%99%E8%A3%A1_zjahuo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531944/amis_audio/vocabulary/did1_02_18.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "itila",
+      "chinese": "那裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575141/%E9%82%A3%E8%A3%A1_nnazlo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531946/amis_audio/vocabulary/did1_02_19.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "秀姑巒阿美語": {
+    "a": {
+      "amis": "fohecalay",
+      "chinese": "白色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779573998/%E7%99%BD%E8%89%B2_gcsfaf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531949/amis_audio/vocabulary/did2_22_01.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "kohetingay",
+      "chinese": "黑色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574004/%E9%BB%91%E8%89%B2_q18ewk.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531952/amis_audio/vocabulary/did2_22_02.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kahengangay",
+      "chinese": "紅色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574081/%E7%B4%85%E8%89%B2_ezcgez.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531954/amis_audio/vocabulary/did2_22_03.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kangdaway",
+      "chinese": "綠色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574225/%E7%B6%A0%E8%89%B2_wt1c6d.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531957/amis_audio/vocabulary/did2_22_08.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "cengel",
+      "chinese": "顏色",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574443/%E9%A1%8F%E8%89%B2_zkc65x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531960/amis_audio/vocabulary/did2_22_09.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "dadaya^",
+      "chinese": "晚上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531962/amis_audio/vocabulary/did2_13_02.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "inacila^",
+      "chinese": "昨天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575782/%E6%98%A8%E5%A4%A9_nmutvj.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531965/amis_audio/vocabulary/did2_13_03.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "anocila^",
+      "chinese": "明天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576026/%E6%98%8E%E5%A4%A9_rghput.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531968/amis_audio/vocabulary/did2_13_04.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "anini",
+      "chinese": "今天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575726/%E4%BB%8A%E5%A4%A9_qplqjs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531970/amis_audio/vocabulary/did2_13_05.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "dafak",
+      "chinese": "早上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574698/%E6%97%A9%E4%B8%8A_wbr1af.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531973/amis_audio/vocabulary/did2_13_06.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "herek no lahok",
+      "chinese": "下午",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574783/%E4%B8%8B%E5%8D%88_dfyxvy.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531976/amis_audio/vocabulary/did2_13_25.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "matini",
+      "chinese": "現在",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575907/%E7%8F%BE%E5%9C%A8_wvirb9.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531978/amis_audio/vocabulary/did2_13_30.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "na'ay",
+      "chinese": "不要",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575485/%E4%B8%8D%E8%A6%81_hjulv8.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531982/amis_audio/vocabulary/did2_35_01.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "akaa / tatiih",
+      "chinese": "不可以",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531985/amis_audio/vocabulary/did2_35_02.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "caay / cai",
+      "chinese": "不是",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575599/%E4%B8%8D%E6%98%AF_zxvpnl.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531987/amis_audio/vocabulary/did2_35_03.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "na'ayen",
+      "chinese": "沒有",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576070/%E6%B2%A1%E6%9C%89_o6bptz.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531990/amis_audio/vocabulary/did2_35_04.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "na'ayen",
+      "chinese": "不要(祈使)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531993/amis_audio/vocabulary/did2_35_05.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "hakeno",
+      "chinese": "不知道",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575247/%E4%B8%8D%E7%9F%A5%E9%81%93_qa6uhg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531995/amis_audio/vocabulary/did2_35_06.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "itini",
+      "chinese": "這裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575091/%E9%80%99%E8%A3%A1_zjahuo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779531997/amis_audio/vocabulary/did2_02_18.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "itira",
+      "chinese": "那裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575141/%E9%82%A3%E8%A3%A1_nnazlo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532000/amis_audio/vocabulary/did2_02_19.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "海岸阿美語": {
+    "a": {
+      "amis": "kohecalay",
+      "chinese": "白色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779573998/%E7%99%BD%E8%89%B2_gcsfaf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532003/amis_audio/vocabulary/did3_22_01.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "kohetingay",
+      "chinese": "黑色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574004/%E9%BB%91%E8%89%B2_q18ewk.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532006/amis_audio/vocabulary/did3_22_02.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kahengangay",
+      "chinese": "紅色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574081/%E7%B4%85%E8%89%B2_ezcgez.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532009/amis_audio/vocabulary/did3_22_03.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kandaway",
+      "chinese": "綠色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574225/%E7%B6%A0%E8%89%B2_wt1c6d.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532011/amis_audio/vocabulary/did3_22_08.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "cengel",
+      "chinese": "顏色",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574443/%E9%A1%8F%E8%89%B2_zkc65x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532014/amis_audio/vocabulary/did3_22_09.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "dadaya",
+      "chinese": "晚上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532016/amis_audio/vocabulary/did3_13_02.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "inacila",
+      "chinese": "昨天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575782/%E6%98%A8%E5%A4%A9_nmutvj.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532019/amis_audio/vocabulary/did3_13_03.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "anodafak/anocila",
+      "chinese": "明天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576026/%E6%98%8E%E5%A4%A9_rghput.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532022/amis_audio/vocabulary/did3_13_04.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "anini",
+      "chinese": "今天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575726/%E4%BB%8A%E5%A4%A9_qplqjs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532025/amis_audio/vocabulary/did3_13_05.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "dafak",
+      "chinese": "早上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574698/%E6%97%A9%E4%B8%8A_wbr1af.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532028/amis_audio/vocabulary/did3_13_06.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "herek no lahok",
+      "chinese": "下午",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574783/%E4%B8%8B%E5%8D%88_dfyxvy.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532030/amis_audio/vocabulary/did3_13_25.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "anini",
+      "chinese": "現在",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575907/%E7%8F%BE%E5%9C%A8_wvirb9.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532033/amis_audio/vocabulary/did3_13_30.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "naay",
+      "chinese": "不要",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575485/%E4%B8%8D%E8%A6%81_hjulv8.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532035/amis_audio/vocabulary/did3_35_01.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "tati'ih",
+      "chinese": "不可以",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532038/amis_audio/vocabulary/did3_35_02.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "caayay",
+      "chinese": "不是",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575599/%E4%B8%8D%E6%98%AF_zxvpnl.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532040/amis_audio/vocabulary/did3_35_03.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "awa",
+      "chinese": "沒有",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576070/%E6%B2%A1%E6%9C%89_o6bptz.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532043/amis_audio/vocabulary/did3_35_04.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "aka",
+      "chinese": "不要(祈使)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532045/amis_audio/vocabulary/did3_35_05.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "hakeno",
+      "chinese": "不知道",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575247/%E4%B8%8D%E7%9F%A5%E9%81%93_qa6uhg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532047/amis_audio/vocabulary/did3_35_06.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "ini",
+      "chinese": "這裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575091/%E9%80%99%E8%A3%A1_zjahuo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532050/amis_audio/vocabulary/did3_02_18.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "iraw",
+      "chinese": "那裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575141/%E9%82%A3%E8%A3%A1_nnazlo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532052/amis_audio/vocabulary/did3_02_19.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "馬蘭阿美語": {
+    "a": {
+      "amis": "kohecalay",
+      "chinese": "白色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779573998/%E7%99%BD%E8%89%B2_gcsfaf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532056/amis_audio/vocabulary/did4_22_01.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "kohetingay",
+      "chinese": "黑色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574004/%E9%BB%91%E8%89%B2_q18ewk.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532059/amis_audio/vocabulary/did4_22_02.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kahengangay",
+      "chinese": "紅色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574081/%E7%B4%85%E8%89%B2_ezcgez.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532062/amis_audio/vocabulary/did4_22_03.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kangdaway",
+      "chinese": "綠色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574225/%E7%B6%A0%E8%89%B2_wt1c6d.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532065/amis_audio/vocabulary/did4_22_08.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "cengel",
+      "chinese": "顏色",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574443/%E9%A1%8F%E8%89%B2_zkc65x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532067/amis_audio/vocabulary/did4_22_09.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "dadaya",
+      "chinese": "晚上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532070/amis_audio/vocabulary/did4_13_02.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "nacila",
+      "chinese": "昨天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575782/%E6%98%A8%E5%A4%A9_nmutvj.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532072/amis_audio/vocabulary/did4_13_03.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "anocila",
+      "chinese": "明天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576026/%E6%98%8E%E5%A4%A9_rghput.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532074/amis_audio/vocabulary/did4_13_04.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "anini",
+      "chinese": "今天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575726/%E4%BB%8A%E5%A4%A9_qplqjs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532077/amis_audio/vocabulary/did4_13_05.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "papacem",
+      "chinese": "早上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574698/%E6%97%A9%E4%B8%8A_wbr1af.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532079/amis_audio/vocabulary/did4_13_06.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "ikor no lahok",
+      "chinese": "下午",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574783/%E4%B8%8B%E5%8D%88_dfyxvy.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532082/amis_audio/vocabulary/did4_13_25.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "hatini",
+      "chinese": "現在",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575907/%E7%8F%BE%E5%9C%A8_wvirb9.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532085/amis_audio/vocabulary/did4_13_30.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "aka to",
+      "chinese": "不要",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575485/%E4%B8%8D%E8%A6%81_hjulv8.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532091/amis_audio/vocabulary/did4_35_01.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "ca kanga'ay/tati'ih",
+      "chinese": "不可以",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532094/amis_audio/vocabulary/did4_35_02.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "cowa",
+      "chinese": "不是",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575599/%E4%B8%8D%E6%98%AF_zxvpnl.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532096/amis_audio/vocabulary/did4_35_03.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "awa",
+      "chinese": "沒有",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576070/%E6%B2%A1%E6%9C%89_o6bptz.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532099/amis_audio/vocabulary/did4_35_04.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "aka ka",
+      "chinese": "不要(祈使)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532101/amis_audio/vocabulary/did4_35_05.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "hayken",
+      "chinese": "不知道",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575247/%E4%B8%8D%E7%9F%A5%E9%81%93_qa6uhg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532104/amis_audio/vocabulary/did4_35_06.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "ni",
+      "chinese": "這裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575091/%E9%80%99%E8%A3%A1_zjahuo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532106/amis_audio/vocabulary/did4_02_18.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "ra",
+      "chinese": "那裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575141/%E9%82%A3%E8%A3%A1_nnazlo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532108/amis_audio/vocabulary/did4_02_19.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "恆春阿美語": {
+    "a": {
+      "amis": "kohecalay",
+      "chinese": "白色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779573998/%E7%99%BD%E8%89%B2_gcsfaf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532110/amis_audio/vocabulary/did5_22_01.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "kohetingay",
+      "chinese": "黑色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574004/%E9%BB%91%E8%89%B2_q18ewk.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532113/amis_audio/vocabulary/did5_22_02.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kahengangay",
+      "chinese": "紅色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574081/%E7%B4%85%E8%89%B2_ezcgez.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532115/amis_audio/vocabulary/did5_22_03.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kangdaway",
+      "chinese": "綠色的",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574225/%E7%B6%A0%E8%89%B2_wt1c6d.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532119/amis_audio/vocabulary/did5_22_08.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "cengel",
+      "chinese": "顏色",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574443/%E9%A1%8F%E8%89%B2_zkc65x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532121/amis_audio/vocabulary/did5_22_09.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "dadaya",
+      "chinese": "晚上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532124/amis_audio/vocabulary/did5_13_02.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "nacila",
+      "chinese": "昨天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575782/%E6%98%A8%E5%A4%A9_nmutvj.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532126/amis_audio/vocabulary/did5_13_03.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "anocila",
+      "chinese": "明天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576026/%E6%98%8E%E5%A4%A9_rghput.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532128/amis_audio/vocabulary/did5_13_04.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "anini",
+      "chinese": "今天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575726/%E4%BB%8A%E5%A4%A9_qplqjs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532131/amis_audio/vocabulary/did5_13_05.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "papacem",
+      "chinese": "早上",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574698/%E6%97%A9%E4%B8%8A_wbr1af.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532133/amis_audio/vocabulary/did5_13_06.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "herek no lahok",
+      "chinese": "下午",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779574783/%E4%B8%8B%E5%8D%88_dfyxvy.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532136/amis_audio/vocabulary/did5_13_25.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "nohatini/hatini",
+      "chinese": "現在",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575907/%E7%8F%BE%E5%9C%A8_wvirb9.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532139/amis_audio/vocabulary/did5_13_30.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "aka",
+      "chinese": "不要",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575485/%E4%B8%8D%E8%A6%81_hjulv8.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532142/amis_audio/vocabulary/did5_35_01.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "aka a",
+      "chinese": "不可以",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532144/amis_audio/vocabulary/did5_35_02.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "cowa",
+      "chinese": "不是",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575599/%E4%B8%8D%E6%98%AF_zxvpnl.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532147/amis_audio/vocabulary/did5_35_03.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "awaay",
+      "chinese": "沒有",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779576070/%E6%B2%A1%E6%9C%89_o6bptz.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532149/amis_audio/vocabulary/did5_35_04.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "aka ka",
+      "chinese": "不要(祈使)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575344/%E4%B8%8D%E8%A1%8C_x6sugw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532152/amis_audio/vocabulary/did5_35_05.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "hayken",
+      "chinese": "不知道",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575247/%E4%B8%8D%E7%9F%A5%E9%81%93_qa6uhg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532154/amis_audio/vocabulary/did5_35_06.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "tini",
+      "chinese": "這裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575091/%E9%80%99%E8%A3%A1_zjahuo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532157/amis_audio/vocabulary/did5_02_18.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "itira",
+      "chinese": "那裡",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779575141/%E9%82%A3%E8%A3%A1_nnazlo.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779532160/amis_audio/vocabulary/did5_02_19.wav",
+      "color": "#ff8a65"
+    }
+  }
+}

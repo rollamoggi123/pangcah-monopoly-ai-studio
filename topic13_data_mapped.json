@@ -1,0 +1,712 @@
+{
+  "南勢阿美語": {
+    "a": {
+      "amis": "mata",
+      "chinese": "眼睛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543536/%E7%9C%BC%E7%9D%9B3_jwmp0g.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530006/amis_audio/sp_junior/did1_7_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "tangila",
+      "chinese": "耳朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769507351/%E8%80%B3%E6%9C%B5_2026-01-27_174619_ipp97p.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530008/amis_audio/sp_junior/did1_7_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "ngangusuan",
+      "chinese": "鼻子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582147/Gemini_Generated_Image_knqsywknqsywknqs_ged0hp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530010/amis_audio/sp_junior/did1_7_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "nguyus",
+      "chinese": "嘴巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769544408/%E5%98%B4%E5%B7%B4_dr1fnn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530012/amis_audio/sp_junior/did1_7_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "wadis",
+      "chinese": "牙齒",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582155/Gemini_Generated_Image_via007via007via0_e3xbbm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530015/amis_audio/sp_junior/did1_7_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "tangal",
+      "chinese": "頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553183/%E9%A0%AD_vnafrp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530017/amis_audio/sp_junior/did1_7_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "vukes",
+      "chinese": "頭髮",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582203/Gemini_Generated_Image_59ffdy59ffdy59ff_jjtjwa.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530019/amis_audio/sp_junior/did1_7_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "pising",
+      "chinese": "臉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553002/%E8%87%89_wq9cbq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530022/amis_audio/sp_junior/did1_7_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kamay",
+      "chinese": "手",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582421/Gemini_Generated_Image_xodtecxodtecxodt_gw1ghh.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530024/amis_audio/sp_junior/did1_7_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "kuku'",
+      "chinese": "腳",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582131/Gemini_Generated_Image_cw7x6ncw7x6ncw7x_duzvny.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530026/amis_audio/sp_junior/did1_7_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cepi'",
+      "chinese": "大腿",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543531/%E5%A4%A7%E8%85%BF_gofzbe.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530110/amis_audio/vocabulary/did1_06_02.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "kanus",
+      "chinese": "指甲",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769581531/Gemini_Generated_Image_9wmzub9wmzub9wmz_ndwlh0.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530113/amis_audio/vocabulary/did1_06_07.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "tireng",
+      "chinese": "身體",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582120/Gemini_Generated_Image_ct7mmpct7mmpct7m_k4tq6w.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530115/amis_audio/vocabulary/did1_06_09.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "remes",
+      "chinese": "血",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582508/Gemini_Generated_Image_btged8btged8btge_fafcqs.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530118/amis_audio/vocabulary/did1_06_14.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tiyad",
+      "chinese": "肚子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582891/Gemini_Generated_Image_75185t75185t7518_ly9lzf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530120/amis_audio/vocabulary/did1_06_17.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "avala",
+      "chinese": "肩膀",
+      "image": "https://res.cloudinary.com/djidzt4nv/image/upload/v1769582872/Gemini_Generated_Image_4p04mr4p04mr4p04_jqj2jw.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530123/amis_audio/vocabulary/did1_06_20.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "ngaruy",
+      "chinese": "下巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529236/%E4%B8%8B%E5%B7%B4_fe5qfw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530125/amis_audio/vocabulary/did1_06_21.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "kulul",
+      "chinese": "背部",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529355/%E8%83%8C%E9%83%A8_wn33vq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530128/amis_audio/vocabulary/did1_06_22.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "tusur",
+      "chinese": "膝蓋",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529514/%E8%86%9D%E8%93%8B_iscubf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530130/amis_audio/vocabulary/did1_06_31.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sema",
+      "chinese": "舌頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529871/1_%E8%88%8C%E9%A0%AD_rbgzkq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530133/amis_audio/vocabulary/did1_06_42.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "秀姑巒阿美語": {
+    "a": {
+      "amis": "mata",
+      "chinese": "眼睛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543536/%E7%9C%BC%E7%9D%9B3_jwmp0g.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530028/amis_audio/sp_junior/did2_7_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "tangila",
+      "chinese": "耳朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769507351/%E8%80%B3%E6%9C%B5_2026-01-27_174619_ipp97p.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530029/amis_audio/sp_junior/did2_7_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "ngoso'",
+      "chinese": "鼻子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582147/Gemini_Generated_Image_knqsywknqsywknqs_ged0hp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530032/amis_audio/sp_junior/did2_7_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "ngapa",
+      "chinese": "嘴巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769544408/%E5%98%B4%E5%B7%B4_dr1fnn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530034/amis_audio/sp_junior/did2_7_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "wadis",
+      "chinese": "牙齒",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582155/Gemini_Generated_Image_via007via007via0_e3xbbm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530036/amis_audio/sp_junior/did2_7_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "tangal",
+      "chinese": "頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553183/%E9%A0%AD_vnafrp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530038/amis_audio/sp_junior/did2_7_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "fokes",
+      "chinese": "頭髮",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582203/Gemini_Generated_Image_59ffdy59ffdy59ff_jjtjwa.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530040/amis_audio/sp_junior/did2_7_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "pising",
+      "chinese": "臉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553002/%E8%87%89_wq9cbq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530042/amis_audio/sp_junior/did2_7_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kamay",
+      "chinese": "手",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582421/Gemini_Generated_Image_xodtecxodtecxodt_gw1ghh.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530044/amis_audio/sp_junior/did2_7_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "wa'ay",
+      "chinese": "腳",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582131/Gemini_Generated_Image_cw7x6ncw7x6ncw7x_duzvny.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530046/amis_audio/sp_junior/did2_7_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cepi'",
+      "chinese": "大腿",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543531/%E5%A4%A7%E8%85%BF_gofzbe.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530135/amis_audio/vocabulary/did2_06_02.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "kanoos",
+      "chinese": "指甲",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769581531/Gemini_Generated_Image_9wmzub9wmzub9wmz_ndwlh0.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530138/amis_audio/vocabulary/did2_06_07.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "tireng",
+      "chinese": "身體",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582120/Gemini_Generated_Image_ct7mmpct7mmpct7m_k4tq6w.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530141/amis_audio/vocabulary/did2_06_09.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "remes",
+      "chinese": "血",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582508/Gemini_Generated_Image_btged8btged8btge_fafcqs.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530143/amis_audio/vocabulary/did2_06_14.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tiyad",
+      "chinese": "肚子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582891/Gemini_Generated_Image_75185t75185t7518_ly9lzf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530147/amis_audio/vocabulary/did2_06_17.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "afala^",
+      "chinese": "肩膀",
+      "image": "https://res.cloudinary.com/djidzt4nv/image/upload/v1769582872/Gemini_Generated_Image_4p04mr4p04mr4p04_jqj2jw.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530149/amis_audio/vocabulary/did2_06_20.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "ngaroy",
+      "chinese": "下巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529236/%E4%B8%8B%E5%B7%B4_fe5qfw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530151/amis_audio/vocabulary/did2_06_21.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "koror",
+      "chinese": "背部",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529355/%E8%83%8C%E9%83%A8_wn33vq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530154/amis_audio/vocabulary/did2_06_22.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "tosor",
+      "chinese": "膝蓋",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529514/%E8%86%9D%E8%93%8B_iscubf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530156/amis_audio/vocabulary/did2_06_31.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sema^",
+      "chinese": "舌頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529871/1_%E8%88%8C%E9%A0%AD_rbgzkq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530159/amis_audio/vocabulary/did2_06_42.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "海岸阿美語": {
+    "a": {
+      "amis": "mata",
+      "chinese": "眼睛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543536/%E7%9C%BC%E7%9D%9B3_jwmp0g.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530048/amis_audio/sp_junior/did3_7_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "tanginga",
+      "chinese": "耳朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769507351/%E8%80%B3%E6%9C%B5_2026-01-27_174619_ipp97p.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530051/amis_audio/sp_junior/did3_7_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "ngoso'",
+      "chinese": "鼻子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582147/Gemini_Generated_Image_knqsywknqsywknqs_ged0hp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530053/amis_audio/sp_junior/did3_7_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "ngoyos",
+      "chinese": "嘴巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769544408/%E5%98%B4%E5%B7%B4_dr1fnn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530055/amis_audio/sp_junior/did3_7_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "wadis",
+      "chinese": "牙齒",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582155/Gemini_Generated_Image_via007via007via0_e3xbbm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530057/amis_audio/sp_junior/did3_7_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fongoh",
+      "chinese": "頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553183/%E9%A0%AD_vnafrp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530059/amis_audio/sp_junior/did3_7_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "fokes",
+      "chinese": "頭髮",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582203/Gemini_Generated_Image_59ffdy59ffdy59ff_jjtjwa.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530061/amis_audio/sp_junior/did3_7_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "pising",
+      "chinese": "臉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553002/%E8%87%89_wq9cbq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530063/amis_audio/sp_junior/did3_7_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kamay",
+      "chinese": "手",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582421/Gemini_Generated_Image_xodtecxodtecxodt_gw1ghh.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530065/amis_audio/sp_junior/did3_7_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "wa'ay",
+      "chinese": "腳",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582131/Gemini_Generated_Image_cw7x6ncw7x6ncw7x_duzvny.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530067/amis_audio/sp_junior/did3_7_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cepi'",
+      "chinese": "大腿",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543531/%E5%A4%A7%E8%85%BF_gofzbe.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530161/amis_audio/vocabulary/did3_06_02.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "kanoos",
+      "chinese": "指甲",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769581531/Gemini_Generated_Image_9wmzub9wmzub9wmz_ndwlh0.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530163/amis_audio/vocabulary/did3_06_07.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "tatirengan/tireng",
+      "chinese": "身體",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582120/Gemini_Generated_Image_ct7mmpct7mmpct7m_k4tq6w.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530167/amis_audio/vocabulary/did3_06_09.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "remes",
+      "chinese": "血",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582508/Gemini_Generated_Image_btged8btged8btge_fafcqs.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530170/amis_audio/vocabulary/did3_06_14.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tiyad",
+      "chinese": "肚子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582891/Gemini_Generated_Image_75185t75185t7518_ly9lzf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530172/amis_audio/vocabulary/did3_06_17.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "afalarn",
+      "chinese": "肩膀",
+      "image": "https://res.cloudinary.com/djidzt4nv/image/upload/v1769582872/Gemini_Generated_Image_4p04mr4p04mr4p04_jqj2jw.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530174/amis_audio/vocabulary/did3_06_20.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "ngaroy",
+      "chinese": "下巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529236/%E4%B8%8B%E5%B7%B4_fe5qfw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530177/amis_audio/vocabulary/did3_06_21.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "koror",
+      "chinese": "背部",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529355/%E8%83%8C%E9%83%A8_wn33vq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530179/amis_audio/vocabulary/did3_06_22.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "tosor",
+      "chinese": "膝蓋",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529514/%E8%86%9D%E8%93%8B_iscubf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530182/amis_audio/vocabulary/did3_06_31.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sema",
+      "chinese": "舌頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529871/1_%E8%88%8C%E9%A0%AD_rbgzkq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530184/amis_audio/vocabulary/did3_06_42.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "馬蘭阿美語": {
+    "a": {
+      "amis": "mata",
+      "chinese": "眼睛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543536/%E7%9C%BC%E7%9D%9B3_jwmp0g.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530069/amis_audio/sp_junior/did4_7_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "tangila",
+      "chinese": "耳朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769507351/%E8%80%B3%E6%9C%B5_2026-01-27_174619_ipp97p.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530072/amis_audio/sp_junior/did4_7_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "ngoso'",
+      "chinese": "鼻子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582147/Gemini_Generated_Image_knqsywknqsywknqs_ged0hp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530073/amis_audio/sp_junior/did4_7_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "ngoyos",
+      "chinese": "嘴巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769544408/%E5%98%B4%E5%B7%B4_dr1fnn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530075/amis_audio/sp_junior/did4_7_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "wadis",
+      "chinese": "牙齒",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582155/Gemini_Generated_Image_via007via007via0_e3xbbm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530077/amis_audio/sp_junior/did4_7_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fongoh",
+      "chinese": "頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553183/%E9%A0%AD_vnafrp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530079/amis_audio/sp_junior/did4_7_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "fokes",
+      "chinese": "頭髮",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582203/Gemini_Generated_Image_59ffdy59ffdy59ff_jjtjwa.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530081/amis_audio/sp_junior/did4_7_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "laway / pising",
+      "chinese": "臉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553002/%E8%87%89_wq9cbq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530083/amis_audio/sp_junior/did4_7_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kamay",
+      "chinese": "手",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582421/Gemini_Generated_Image_xodtecxodtecxodt_gw1ghh.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530086/amis_audio/sp_junior/did4_7_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "oo'",
+      "chinese": "腳",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582131/Gemini_Generated_Image_cw7x6ncw7x6ncw7x_duzvny.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530088/amis_audio/sp_junior/did4_7_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cepi'",
+      "chinese": "大腿",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543531/%E5%A4%A7%E8%85%BF_gofzbe.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530186/amis_audio/vocabulary/did4_06_02.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "kinoos",
+      "chinese": "指甲",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769581531/Gemini_Generated_Image_9wmzub9wmzub9wmz_ndwlh0.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530189/amis_audio/vocabulary/did4_06_07.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "tatirengan/tireng",
+      "chinese": "身體",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582120/Gemini_Generated_Image_ct7mmpct7mmpct7m_k4tq6w.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530192/amis_audio/vocabulary/did4_06_09.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "irang",
+      "chinese": "血",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582508/Gemini_Generated_Image_btged8btged8btge_fafcqs.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530194/amis_audio/vocabulary/did4_06_14.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tiyad",
+      "chinese": "肚子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582891/Gemini_Generated_Image_75185t75185t7518_ly9lzf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530197/amis_audio/vocabulary/did4_06_17.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "afala",
+      "chinese": "肩膀",
+      "image": "https://res.cloudinary.com/djidzt4nv/image/upload/v1769582872/Gemini_Generated_Image_4p04mr4p04mr4p04_jqj2jw.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530199/amis_audio/vocabulary/did4_06_20.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "ngaroy",
+      "chinese": "下巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529236/%E4%B8%8B%E5%B7%B4_fe5qfw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530201/amis_audio/vocabulary/did4_06_21.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "koror",
+      "chinese": "背部",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529355/%E8%83%8C%E9%83%A8_wn33vq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530204/amis_audio/vocabulary/did4_06_22.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "toros",
+      "chinese": "膝蓋",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529514/%E8%86%9D%E8%93%8B_iscubf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530206/amis_audio/vocabulary/did4_06_31.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sema",
+      "chinese": "舌頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529871/1_%E8%88%8C%E9%A0%AD_rbgzkq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530208/amis_audio/vocabulary/did4_06_42.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "恆春阿美語": {
+    "a": {
+      "amis": "mata",
+      "chinese": "眼睛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543536/%E7%9C%BC%E7%9D%9B3_jwmp0g.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530090/amis_audio/sp_junior/did5_7_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "tangila",
+      "chinese": "耳朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769507351/%E8%80%B3%E6%9C%B5_2026-01-27_174619_ipp97p.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530092/amis_audio/sp_junior/did5_7_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "ngoso'",
+      "chinese": "鼻子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582147/Gemini_Generated_Image_knqsywknqsywknqs_ged0hp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530094/amis_audio/sp_junior/did5_7_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "ngoyos",
+      "chinese": "嘴巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769544408/%E5%98%B4%E5%B7%B4_dr1fnn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530096/amis_audio/sp_junior/did5_7_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "wadis",
+      "chinese": "牙齒",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582155/Gemini_Generated_Image_via007via007via0_e3xbbm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530097/amis_audio/sp_junior/did5_7_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fongoh",
+      "chinese": "頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553183/%E9%A0%AD_vnafrp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530100/amis_audio/sp_junior/did5_7_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "fokes",
+      "chinese": "頭髮",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582203/Gemini_Generated_Image_59ffdy59ffdy59ff_jjtjwa.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530102/amis_audio/sp_junior/did5_7_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "laway",
+      "chinese": "臉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769553002/%E8%87%89_wq9cbq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530104/amis_audio/sp_junior/did5_7_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kamay",
+      "chinese": "手",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582421/Gemini_Generated_Image_xodtecxodtecxodt_gw1ghh.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530106/amis_audio/sp_junior/did5_7_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "oo'",
+      "chinese": "腳",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582131/Gemini_Generated_Image_cw7x6ncw7x6ncw7x_duzvny.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530108/amis_audio/sp_junior/did5_7_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cepi'",
+      "chinese": "大腿",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769543531/%E5%A4%A7%E8%85%BF_gofzbe.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530210/amis_audio/vocabulary/did5_06_02.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "kanoos",
+      "chinese": "指甲",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769581531/Gemini_Generated_Image_9wmzub9wmzub9wmz_ndwlh0.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530213/amis_audio/vocabulary/did5_06_07.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "tireng",
+      "chinese": "身體",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582120/Gemini_Generated_Image_ct7mmpct7mmpct7m_k4tq6w.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530215/amis_audio/vocabulary/did5_06_09.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "ilang",
+      "chinese": "血",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582508/Gemini_Generated_Image_btged8btged8btge_fafcqs.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530218/amis_audio/vocabulary/did5_06_14.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tiyad",
+      "chinese": "肚子",
+      "image": "https://res.cloudinary.com/deljuj25x/image/upload/v1769582891/Gemini_Generated_Image_75185t75185t7518_ly9lzf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530220/amis_audio/vocabulary/did5_06_17.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "afala",
+      "chinese": "肩膀",
+      "image": "https://res.cloudinary.com/djidzt4nv/image/upload/v1769582872/Gemini_Generated_Image_4p04mr4p04mr4p04_jqj2jw.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530223/amis_audio/vocabulary/did5_06_20.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "ngaroy",
+      "chinese": "下巴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529236/%E4%B8%8B%E5%B7%B4_fe5qfw.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530225/amis_audio/vocabulary/did5_06_21.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "koror",
+      "chinese": "背部",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529355/%E8%83%8C%E9%83%A8_wn33vq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530228/amis_audio/vocabulary/did5_06_22.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "toros",
+      "chinese": "膝蓋",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529514/%E8%86%9D%E8%93%8B_iscubf.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530230/amis_audio/vocabulary/did5_06_31.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sema",
+      "chinese": "舌頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779529871/1_%E8%88%8C%E9%A0%AD_rbgzkq.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779530233/amis_audio/vocabulary/did5_06_42.wav",
+      "color": "#ff8a65"
+    }
+  }
+}

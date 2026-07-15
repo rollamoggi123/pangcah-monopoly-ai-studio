@@ -1,0 +1,712 @@
+{
+  "南勢阿美語": {
+    "a": {
+      "amis": "vunga",
+      "chinese": "地瓜",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516821/amis_audio/vocabulary/did1_08_56.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "pawli",
+      "chinese": "香蕉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516823/amis_audio/vocabulary/did1_08_01.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "papah",
+      "chinese": "葉子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516826/amis_audio/vocabulary/did1_08_06.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "tevus",
+      "chinese": "甘蔗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952491/Gemini_Generated_Image_9dzcqy9dzcqy9dzc_tm01xb.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516828/amis_audio/vocabulary/did1_08_05.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "tali",
+      "chinese": "芋頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952586/Gemini_Generated_Image_evnpcnevnpcnevnp_iq5iz7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516830/amis_audio/vocabulary/did1_08_04.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "taviras",
+      "chinese": "玉米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516833/amis_audio/vocabulary/did1_08_12.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "savak",
+      "chinese": "稻穀",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779521076/savak_%E7%A8%BB%E7%A9%80_gfakww.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516836/amis_audio/vocabulary/did1_08_02.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "kama",
+      "chinese": "柑橘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516838/amis_audio/vocabulary/did1_08_08.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kilang",
+      "chinese": "樹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516841/amis_audio/vocabulary/did1_08_03.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "varu",
+      "chinese": "花朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516844/amis_audio/vocabulary/did1_08_09.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cudad",
+      "chinese": "書",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516846/amis_audio/vocabulary/did1_09_01.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "pida",
+      "chinese": "錢",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516848/amis_audio/vocabulary/did1_09_02.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "mali",
+      "chinese": "球",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516852/amis_audio/vocabulary/did1_09_03.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "sapad",
+      "chinese": "桌子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516855/amis_audio/vocabulary/did1_09_04.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "telay/dingwa",
+      "chinese": "電話",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516857/amis_audio/vocabulary/did1_09_05.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "sapisurit",
+      "chinese": "筆",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516860/amis_audio/vocabulary/did1_09_06.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "elun",
+      "chinese": "椅子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516862/amis_audio/vocabulary/did1_09_07.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "sapaiyu",
+      "chinese": "藥物",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952649/Gemini_Generated_Image_zboiwszboiwszboi_d0ueaj.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516865/amis_audio/vocabulary/did1_09_08.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "cacevaren",
+      "chinese": "雨傘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516868/amis_audio/vocabulary/did1_09_10.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "savuric",
+      "chinese": "橡皮擦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516870/amis_audio/vocabulary/did1_09_70.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "秀姑巒阿美語": {
+    "a": {
+      "amis": "fonga / konga",
+      "chinese": "地瓜",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516873/amis_audio/vocabulary/did2_08_56.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "pawli",
+      "chinese": "香蕉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516876/amis_audio/vocabulary/did2_08_01.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "papah",
+      "chinese": "葉子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516878/amis_audio/vocabulary/did2_08_06.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "tefos",
+      "chinese": "甘蔗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952491/Gemini_Generated_Image_9dzcqy9dzcqy9dzc_tm01xb.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516880/amis_audio/vocabulary/did2_08_05.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "tali",
+      "chinese": "芋頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952586/Gemini_Generated_Image_evnpcnevnpcnevnp_iq5iz7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516883/amis_audio/vocabulary/did2_08_04.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "ariray",
+      "chinese": "玉米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516885/amis_audio/vocabulary/did2_08_12.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "savak",
+      "chinese": "稻穀",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1779521076/savak_%E7%A8%BB%E7%A9%80_gfakww.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516888/amis_audio/vocabulary/did2_08_02.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "mami' / mami'",
+      "chinese": "柑橘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516890/amis_audio/vocabulary/did2_08_08.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kilang",
+      "chinese": "樹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516893/amis_audio/vocabulary/did2_08_03.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "rohayan",
+      "chinese": "花朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516895/amis_audio/vocabulary/did2_08_09.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "codad",
+      "chinese": "書",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516899/amis_audio/vocabulary/did2_09_01.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "pida",
+      "chinese": "錢",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516902/amis_audio/vocabulary/did2_09_02.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "mali",
+      "chinese": "球",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516904/amis_audio/vocabulary/did2_09_03.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "sapad / cokowi / parar",
+      "chinese": "桌子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516907/amis_audio/vocabulary/did2_09_04.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "dingwa",
+      "chinese": "電話",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516910/amis_audio/vocabulary/did2_09_05.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "impic",
+      "chinese": "筆",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516912/amis_audio/vocabulary/did2_09_06.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "anengan",
+      "chinese": "椅子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516915/amis_audio/vocabulary/did2_09_07.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "sapaiyo",
+      "chinese": "藥物",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952649/Gemini_Generated_Image_zboiwszboiwszboi_d0ueaj.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516917/amis_audio/vocabulary/did2_09_08.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "cacilakan/linay/sawong",
+      "chinese": "雨傘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516920/amis_audio/vocabulary/did2_09_10.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sasisit",
+      "chinese": "橡皮擦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516922/amis_audio/vocabulary/did2_09_70.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "海岸阿美語": {
+    "a": {
+      "amis": "konga",
+      "chinese": "地瓜",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516924/amis_audio/vocabulary/did3_08_56.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "pawli",
+      "chinese": "香蕉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516927/amis_audio/vocabulary/did3_08_01.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "papah",
+      "chinese": "葉子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516929/amis_audio/vocabulary/did3_08_06.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "tefos",
+      "chinese": "甘蔗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952491/Gemini_Generated_Image_9dzcqy9dzcqy9dzc_tm01xb.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516931/amis_audio/vocabulary/did3_08_05.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "tali",
+      "chinese": "芋頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952586/Gemini_Generated_Image_evnpcnevnpcnevnp_iq5iz7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516934/amis_audio/vocabulary/did3_08_04.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "ariray",
+      "chinese": "玉米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516937/amis_audio/vocabulary/did3_08_12.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "panay",
+      "chinese": "稻米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516939/amis_audio/vocabulary/did3_08_02.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "mami'",
+      "chinese": "柑橘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516942/amis_audio/vocabulary/did3_08_08.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kilang",
+      "chinese": "樹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516944/amis_audio/vocabulary/did3_08_03.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "hana",
+      "chinese": "花朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516946/amis_audio/vocabulary/did3_08_09.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "codad/hong",
+      "chinese": "書",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516949/amis_audio/vocabulary/did3_09_01.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "payso",
+      "chinese": "錢",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516951/amis_audio/vocabulary/did3_09_02.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "mali",
+      "chinese": "球",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516954/amis_audio/vocabulary/did3_09_03.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "parad",
+      "chinese": "桌子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516956/amis_audio/vocabulary/did3_09_04.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tingwa",
+      "chinese": "電話",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516959/amis_audio/vocabulary/did3_09_05.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "impic",
+      "chinese": "筆",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516961/amis_audio/vocabulary/did3_09_06.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "anengan",
+      "chinese": "椅子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516963/amis_audio/vocabulary/did3_09_07.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "sapaiyo",
+      "chinese": "藥物",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952649/Gemini_Generated_Image_zboiwszboiwszboi_d0ueaj.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516966/amis_audio/vocabulary/did3_09_08.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "linay",
+      "chinese": "雨傘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516968/amis_audio/vocabulary/did3_09_10.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sararop/sasisit",
+      "chinese": "橡皮擦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516971/amis_audio/vocabulary/did3_09_70.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "馬蘭阿美語": {
+    "a": {
+      "amis": "konga",
+      "chinese": "地瓜",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516973/amis_audio/vocabulary/did4_08_56.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "pawli",
+      "chinese": "香蕉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516975/amis_audio/vocabulary/did4_08_01.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "papah",
+      "chinese": "葉子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516978/amis_audio/vocabulary/did4_08_06.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "tefos",
+      "chinese": "甘蔗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952491/Gemini_Generated_Image_9dzcqy9dzcqy9dzc_tm01xb.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516980/amis_audio/vocabulary/did4_08_05.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "tali",
+      "chinese": "芋頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952586/Gemini_Generated_Image_evnpcnevnpcnevnp_iq5iz7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516982/amis_audio/vocabulary/did4_08_04.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "ariray",
+      "chinese": "玉米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516985/amis_audio/vocabulary/did4_08_12.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "adas",
+      "chinese": "稻穀",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516988/amis_audio/vocabulary/did4_08_02.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "asilo",
+      "chinese": "柑橘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516990/amis_audio/vocabulary/did4_08_08.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kilang",
+      "chinese": "樹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516992/amis_audio/vocabulary/did4_08_03.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "falo",
+      "chinese": "花朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516995/amis_audio/vocabulary/did4_08_09.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "tilid",
+      "chinese": "書",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779516997/amis_audio/vocabulary/did4_09_01.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "payci",
+      "chinese": "錢",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517000/amis_audio/vocabulary/did4_09_02.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "mali",
+      "chinese": "球",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517002/amis_audio/vocabulary/did4_09_03.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "cokowi",
+      "chinese": "桌子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517004/amis_audio/vocabulary/did4_09_04.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tingwa",
+      "chinese": "電話",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517006/amis_audio/vocabulary/did4_09_05.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "impic",
+      "chinese": "筆",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517009/amis_audio/vocabulary/did4_09_06.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "hakenang",
+      "chinese": "椅子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517011/amis_audio/vocabulary/did4_09_07.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "sapaiyo",
+      "chinese": "藥物",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952649/Gemini_Generated_Image_zboiwszboiwszboi_d0ueaj.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517014/amis_audio/vocabulary/did4_09_08.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "dinay",
+      "chinese": "雨傘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517016/amis_audio/vocabulary/did4_09_10.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sasipasip",
+      "chinese": "橡皮擦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517018/amis_audio/vocabulary/did4_09_70.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "恆春阿美語": {
+    "a": {
+      "amis": "konga",
+      "chinese": "地瓜",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153909/%E5%9C%B0%E7%93%9C_fnjii7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517020/amis_audio/vocabulary/did5_08_56.wav",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "pawli",
+      "chinese": "香蕉",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769552419/%E9%A6%99%E8%95%89_skemlo.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517023/amis_audio/vocabulary/did5_08_01.wav",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "papah",
+      "chinese": "葉子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153825/papah_zaxyps.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517025/amis_audio/vocabulary/did5_08_06.wav",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "tefos",
+      "chinese": "甘蔗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952491/Gemini_Generated_Image_9dzcqy9dzcqy9dzc_tm01xb.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517028/amis_audio/vocabulary/did5_08_05.wav",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "tali",
+      "chinese": "芋頭",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952586/Gemini_Generated_Image_evnpcnevnpcnevnp_iq5iz7.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517030/amis_audio/vocabulary/did5_08_04.wav",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "ariray",
+      "chinese": "玉米",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777153955/%E7%8E%89%E7%B1%B3_oyyfa9.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517033/amis_audio/vocabulary/did5_08_12.wav",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "asad",
+      "chinese": "稻穀",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154570/%E7%A8%BB%E5%AD%90_nblr8d.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517035/amis_audio/vocabulary/did5_08_02.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "asilo",
+      "chinese": "柑橘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777154953/mami_i_ocivep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517038/amis_audio/vocabulary/did5_08_08.wav",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kilang",
+      "chinese": "樹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155615/kilang_ox9hma.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517040/amis_audio/vocabulary/did5_08_03.wav",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "hana",
+      "chinese": "花朵",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777152680/%E8%8A%B1_0_gpvoq2.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517043/amis_audio/vocabulary/did5_08_09.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "tilid",
+      "chinese": "書",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155060/tilid_ew1rtz.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517045/amis_audio/vocabulary/did5_09_01.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "payci",
+      "chinese": "錢",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156600/payso_cqkezl.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517048/amis_audio/vocabulary/did5_09_02.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "mali",
+      "chinese": "球",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157447/Gemini_Generated_Image_3aflyv3aflyv3afl_fol4mn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517050/amis_audio/vocabulary/did5_09_03.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "^eto",
+      "chinese": "桌子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156371/%E6%A1%8C%E5%AD%90_fcjkgu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517052/amis_audio/vocabulary/did5_09_04.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "tingwa",
+      "chinese": "電話",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157306/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-04-26_064756_vpkhto.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517055/amis_audio/vocabulary/did5_09_05.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "impic",
+      "chinese": "筆",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777155464/Gemini_Generated_Image_sccsjosccsjosccs_hzjlvc.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517057/amis_audio/vocabulary/did5_09_06.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "axnan",
+      "chinese": "椅子",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156867/Gemini_Generated_Image_q46gggq46gggq46g_gwiz9l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517060/amis_audio/vocabulary/did5_09_07.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "cemel",
+      "chinese": "藥物",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778952649/Gemini_Generated_Image_zboiwszboiwszboi_d0ueaj.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517062/amis_audio/vocabulary/did5_09_08.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "dinay",
+      "chinese": "雨傘",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777157104/dinay_qeg0rx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517064/amis_audio/vocabulary/did5_09_10.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "sasipasip",
+      "chinese": "橡皮擦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1777156728/sasipasip_qhetcn.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779517067/amis_audio/vocabulary/did5_09_70.wav",
+      "color": "#ff8a65"
+    }
+  }
+}

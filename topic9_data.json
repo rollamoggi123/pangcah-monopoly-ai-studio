@@ -1,0 +1,607 @@
+{
+  "南勢阿美語": {
+    "a": {
+      "amis": "wacu",
+      "chinese": "狗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513708/amis_audio/sp_junior/did1_8_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "nani",
+      "chinese": "貓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513710/amis_audio/sp_junior/did1_8_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "vavuy",
+      "chinese": "豬",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513712/amis_audio/sp_junior/did1_8_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "rarapa",
+      "chinese": "牛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513715/amis_audio/sp_junior/did1_8_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "siri",
+      "chinese": "羊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513717/amis_audio/sp_junior/did1_8_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "ungay",
+      "chinese": "猴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513719/amis_audio/sp_junior/did1_8_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "edu",
+      "chinese": "鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513721/amis_audio/sp_junior/did1_8_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "ayam",
+      "chinese": "雞",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513723/amis_audio/sp_junior/did1_8_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "ayam",
+      "chinese": "鳥",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513725/amis_audio/sp_junior/did1_8_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "vuting",
+      "chinese": "魚",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513727/amis_audio/sp_junior/did1_8_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "rapic",
+      "chinese": "飛鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513822/amis_audio/vocabulary/did1_07_20.wav",
+      "color": "#f48fb1"
+    },
+    "p": {
+      "amis": "tumay",
+      "chinese": "熊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513824/amis_audio/vocabulary/did1_07_23.wav",
+      "color": "#66bb6a"
+    },
+    "q": {
+      "amis": "lalangaw",
+      "chinese": "蒼蠅",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513827/amis_audio/vocabulary/did1_07_34.wav",
+      "color": "#ba68c8"
+    },
+    "r": {
+      "amis": "udal",
+      "chinese": "蜜蜂",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513829/amis_audio/vocabulary/did1_07_35.wav",
+      "color": "#fdd835"
+    },
+    "s": {
+      "amis": "atikak",
+      "chinese": "蚯蚓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513832/amis_audio/vocabulary/did1_07_39.wav",
+      "color": "#4db6ac"
+    },
+    "t": {
+      "amis": "urang",
+      "chinese": "蝦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513834/amis_audio/vocabulary/did1_07_42.wav",
+      "color": "#ff8a65"
+    },
+    "u": {
+      "amis": "lalunah",
+      "chinese": "螞蟻",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943732/82cc9ab0-4fbf-4cd5-9f3a-f255ae1aa34f_d1zv8k.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513836/amis_audio/vocabulary/did1_07_55.wav",
+      "color": "#bae6fd"
+    }
+  },
+  "秀姑巒阿美語": {
+    "a": {
+      "amis": "waco",
+      "chinese": "狗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513729/amis_audio/sp_junior/did2_8_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "posi",
+      "chinese": "貓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513731/amis_audio/sp_junior/did2_8_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "fafoy",
+      "chinese": "豬",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513734/amis_audio/sp_junior/did2_8_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kolong",
+      "chinese": "牛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513736/amis_audio/sp_junior/did2_8_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "siri",
+      "chinese": "羊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513738/amis_audio/sp_junior/did2_8_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "lotong",
+      "chinese": "猴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513740/amis_audio/sp_junior/did2_8_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "edo",
+      "chinese": "鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513741/amis_audio/sp_junior/did2_8_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "koko'/'ayam",
+      "chinese": "雞",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513743/amis_audio/sp_junior/did2_8_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "ayam",
+      "chinese": "鳥",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513745/amis_audio/sp_junior/did2_8_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "foting",
+      "chinese": "魚",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513747/amis_audio/sp_junior/did2_8_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "lawal",
+      "chinese": "飛鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513849/amis_audio/vocabulary/did2_07_20.wav",
+      "color": "#f48fb1"
+    },
+    "p": {
+      "amis": "tomay",
+      "chinese": "熊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513852/amis_audio/vocabulary/did2_07_23.wav",
+      "color": "#66bb6a"
+    },
+    "q": {
+      "amis": "lalangaw",
+      "chinese": "蒼蠅",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513855/amis_audio/vocabulary/did2_07_34.wav",
+      "color": "#ba68c8"
+    },
+    "r": {
+      "amis": "odal",
+      "chinese": "蜜蜂",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513857/amis_audio/vocabulary/did2_07_35.wav",
+      "color": "#fdd835"
+    },
+    "s": {
+      "amis": "atikak",
+      "chinese": "蚯蚓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513860/amis_audio/vocabulary/did2_07_39.wav",
+      "color": "#4db6ac"
+    },
+    "t": {
+      "amis": "afar",
+      "chinese": "蝦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513862/amis_audio/vocabulary/did2_07_42.wav",
+      "color": "#ff8a65"
+    },
+    "u": {
+      "amis": "alonah / kakonah",
+      "chinese": "螞蟻",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943732/82cc9ab0-4fbf-4cd5-9f3a-f255ae1aa34f_d1zv8k.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513865/amis_audio/vocabulary/did2_07_55.wav",
+      "color": "#bae6fd"
+    }
+  },
+  "海岸阿美語": {
+    "a": {
+      "amis": "waco",
+      "chinese": "狗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513749/amis_audio/sp_junior/did3_8_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "posi",
+      "chinese": "貓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513752/amis_audio/sp_junior/did3_8_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "fafoy",
+      "chinese": "豬",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513754/amis_audio/sp_junior/did3_8_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kolong",
+      "chinese": "牛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513756/amis_audio/sp_junior/did3_8_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "siri",
+      "chinese": "羊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513758/amis_audio/sp_junior/did3_8_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "lotong",
+      "chinese": "猴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513760/amis_audio/sp_junior/did3_8_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "edo",
+      "chinese": "鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513763/amis_audio/sp_junior/did3_8_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "koko'",
+      "chinese": "雞",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513765/amis_audio/sp_junior/did3_8_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "ayam",
+      "chinese": "鳥",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513767/amis_audio/sp_junior/did3_8_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "foting",
+      "chinese": "魚",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513769/amis_audio/sp_junior/did3_8_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "lawal",
+      "chinese": "飛鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513877/amis_audio/vocabulary/did3_07_20.wav",
+      "color": "#f48fb1"
+    },
+    "p": {
+      "amis": "tomay",
+      "chinese": "熊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513880/amis_audio/vocabulary/did3_07_23.wav",
+      "color": "#66bb6a"
+    },
+    "q": {
+      "amis": "lalangaw",
+      "chinese": "蒼蠅",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513882/amis_audio/vocabulary/did3_07_34.wav",
+      "color": "#ba68c8"
+    },
+    "r": {
+      "amis": "odal",
+      "chinese": "蜜蜂",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513885/amis_audio/vocabulary/did3_07_35.wav",
+      "color": "#fdd835"
+    },
+    "s": {
+      "amis": "arikak",
+      "chinese": "蚯蚓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513887/amis_audio/vocabulary/did3_07_39.wav",
+      "color": "#4db6ac"
+    },
+    "t": {
+      "amis": "afar",
+      "chinese": "蝦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513890/amis_audio/vocabulary/did3_07_42.wav",
+      "color": "#ff8a65"
+    },
+    "u": {
+      "amis": "kakonah",
+      "chinese": "螞蟻",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943732/82cc9ab0-4fbf-4cd5-9f3a-f255ae1aa34f_d1zv8k.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513892/amis_audio/vocabulary/did3_07_55.wav",
+      "color": "#bae6fd"
+    }
+  },
+  "馬蘭阿美語": {
+    "a": {
+      "amis": "waco",
+      "chinese": "狗",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513771/amis_audio/sp_junior/did4_8_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "posi",
+      "chinese": "貓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513773/amis_audio/sp_junior/did4_8_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "diyong / fafoy",
+      "chinese": "豬",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513775/amis_audio/sp_junior/did4_8_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kolong",
+      "chinese": "牛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513777/amis_audio/sp_junior/did4_8_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "siri",
+      "chinese": "羊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513779/amis_audio/sp_junior/did4_8_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "lotong",
+      "chinese": "猴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513780/amis_audio/sp_junior/did4_8_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "kacingcon",
+      "chinese": "鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513782/amis_audio/sp_junior/did4_8_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "koko'",
+      "chinese": "雞",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513784/amis_audio/sp_junior/did4_8_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "ayam",
+      "chinese": "鳥",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513786/amis_audio/sp_junior/did4_8_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "foting",
+      "chinese": "魚",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513788/amis_audio/sp_junior/did4_8_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "lawal",
+      "chinese": "飛鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513903/amis_audio/vocabulary/did4_07_20.wav",
+      "color": "#f48fb1"
+    },
+    "p": {
+      "amis": "tomay",
+      "chinese": "熊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513905/amis_audio/vocabulary/did4_07_23.wav",
+      "color": "#66bb6a"
+    },
+    "q": {
+      "amis": "lalangaw",
+      "chinese": "蒼蠅",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513908/amis_audio/vocabulary/did4_07_34.wav",
+      "color": "#ba68c8"
+    },
+    "r": {
+      "amis": "facacenal",
+      "chinese": "蜜蜂",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513910/amis_audio/vocabulary/did4_07_35.wav",
+      "color": "#fdd835"
+    },
+    "s": {
+      "amis": "arikak",
+      "chinese": "蚯蚓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513913/amis_audio/vocabulary/did4_07_39.wav",
+      "color": "#4db6ac"
+    },
+    "t": {
+      "amis": "afar",
+      "chinese": "蝦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513916/amis_audio/vocabulary/did4_07_42.wav",
+      "color": "#ff8a65"
+    },
+    "u": {
+      "amis": "kakonah",
+      "chinese": "螞蟻",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943732/82cc9ab0-4fbf-4cd5-9f3a-f255ae1aa34f_d1zv8k.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513918/amis_audio/vocabulary/did4_07_55.wav",
+      "color": "#bae6fd"
+    }
+  },
+  "恆春阿美語": {
+    "a": {
+      "amis": "takura'",
+      "chinese": "青蛙(恆春)",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513790/amis_audio/sp_junior/did5_8_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "ngiyaw",
+      "chinese": "貓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513792/amis_audio/sp_junior/did5_8_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "diyong",
+      "chinese": "豬",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513794/amis_audio/sp_junior/did5_8_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "kolong",
+      "chinese": "牛",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513796/amis_audio/sp_junior/did5_8_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "siri",
+      "chinese": "羊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513798/amis_audio/sp_junior/did5_8_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "lotong",
+      "chinese": "猴",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513800/amis_audio/sp_junior/did5_8_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "edo",
+      "chinese": "鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513802/amis_audio/sp_junior/did5_8_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "koko'",
+      "chinese": "雞",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513805/amis_audio/sp_junior/did5_8_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "ayam",
+      "chinese": "鳥",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513807/amis_audio/sp_junior/did5_8_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "futing",
+      "chinese": "魚",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513809/amis_audio/sp_junior/did5_8_10.mp3",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "lawal",
+      "chinese": "飛鼠",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513930/amis_audio/vocabulary/did5_07_20.wav",
+      "color": "#f48fb1"
+    },
+    "p": {
+      "amis": "tomay",
+      "chinese": "熊",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513933/amis_audio/vocabulary/did5_07_23.wav",
+      "color": "#66bb6a"
+    },
+    "q": {
+      "amis": "lalangaw",
+      "chinese": "蒼蠅",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513935/amis_audio/vocabulary/did5_07_34.wav",
+      "color": "#ba68c8"
+    },
+    "r": {
+      "amis": "fitengal",
+      "chinese": "蜜蜂",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513938/amis_audio/vocabulary/did5_07_35.wav",
+      "color": "#fdd835"
+    },
+    "s": {
+      "amis": "arikak",
+      "chinese": "蚯蚓",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513940/amis_audio/vocabulary/did5_07_39.wav",
+      "color": "#4db6ac"
+    },
+    "t": {
+      "amis": "afar",
+      "chinese": "蝦",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513943/amis_audio/vocabulary/did5_07_42.wav",
+      "color": "#ff8a65"
+    },
+    "u": {
+      "amis": "kakonah",
+      "chinese": "螞蟻",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943732/82cc9ab0-4fbf-4cd5-9f3a-f255ae1aa34f_d1zv8k.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779513946/amis_audio/vocabulary/did5_07_55.wav",
+      "color": "#bae6fd"
+    }
+  }
+}

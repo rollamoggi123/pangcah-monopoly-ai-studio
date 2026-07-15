@@ -1,0 +1,27 @@
+id,amis,chinese,image,sound,color
+TITLE,範例課程：動物篇 (AI圖片生成測試),,,,
+SENTENCES,O maan konini? (這是什麼?)|Mafana' kiso to nini? (你知道這個嗎?)|Samanen ko ngiha' nonini? (這個怎麼叫?),,,,
+DICE,ira ko...|ira ko...|ira ko...,,,,
+a,cacay,1,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766833615/1_cecay_pwaqo9.jpg,https://web.klokah.tw/vocabulary/audio/word/1/01_01.wav,#bae6fd
+b,tusa,2,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835102/2_d4uspg.png,https://web.klokah.tw/vocabulary/audio/word/1/01_02.wav,#ffe8b3
+c,tulu,3,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835199/3_v9nmob.png,https://web.klokah.tw/vocabulary/audio/word/1/01_03.wav,#fb8c00
+d,sepat,4,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835214/4_rcu9ld.png,https://web.klokah.tw/vocabulary/audio/word/1/01_04.wav,#bae6fd
+e,lima,5,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835308/5_slpohd.png,https://web.klokah.tw/vocabulary/audio/word/1/01_05.wav,#ffe8b3
+f,enem,6,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835838/6_u3xlq9.png,https://web.klokah.tw/vocabulary/audio/word/1/01_06.wav,#e63946
+g,pitu,7,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835806/7_jgkd0a.png,https://web.klokah.tw/vocabulary/audio/word/1/01_07.wav,#f48fb1
+h,walu,8,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766836039/8_ksomjx.png,https://web.klokah.tw/vocabulary/audio/word/1/01_08.wav,#bae6fd
+i,siwa,9,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766836115/9_ptywp8.png,https://web.klokah.tw/vocabulary/audio/word/1/01_09.wav,#f48fb1
+j,muketep,10,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766836190/10_ewv3y8.png,https://web.klokah.tw/vocabulary/audio/word/1/01_10.wav,#66bb6a
+o,savaw tu cacay,11,https://res.cloudinary.com/dm1ksvptk/image/upload/v1774713940/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_000440_kdccsu.png,https://web.klokah.tw/vocabulary/audio/word/1/01_11.wav,#ba68c8
+p,tusa a pulu’,20,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835944/20_mw8wi5.png,https://web.klokah.tw/vocabulary/audio/word/1/01_20.wav,#e63946
+q,tulu a pulu’,30,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835950/30_ji8e3t.png,https://web.klokah.tw/vocabulary/audio/word/1/01_26.wav,#ba68c8
+r,sepat a pulu’,40,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835956/40_j2oced.png,https://web.klokah.tw/vocabulary/audio/word/1/01_28.wav,#ffe8b3
+s,lima a pulu’,50,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835961/50_qbagxh.png,https://web.klokah.tw/vocabulary/audio/word/1/01_29.wav,#ba68c8
+t,enem a pulu’,60,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835966/60_mm96su.png,https://web.klokah.tw/vocabulary/audio/word/1/01_30.wav,#e63946
+u,pitu a pulu’,70,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835971/70_u3hrkj.png,https://web.klokah.tw/vocabulary/audio/word/1/01_31.wav,#ffe8b3
+v,walu a pulu’,80,https://res.cloudinary.com/dm1ksvptk/image/upload/v1766835976/80_ddnwmp.png,https://web.klokah.tw/vocabulary/audio/word/1/01_32.wav,#fdd835
+w,siwa a pulu’,90,https://res.cloudinary.com/dm1ksvptk/image/upload/v1774714791/90_j05imq.jpg,https://web.klokah.tw/vocabulary/audio/word/1/01_33.wav,#e63946
+x,patekenan,百,https://res.cloudinary.com/dm1ksvptk/image/upload/v1774715020/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_002305_dvgr1t.png,https://web.klokah.tw/vocabulary/audio/word/1/01_34.wav,#ffe8b3
+,,火車,https://res.cloudinary.com/dcrptozx7/image/upload/v1769581343/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-01-28_141322_cwdpbo.png,,
+,,泰雅女生,https://res.cloudinary.com/dcrptozx7/image/upload/v1769578640/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-01-28_105059_kolurn.png,,
+,,獅子,https://res.cloudinary.com/dcrptozx7/image/upload/v1769582623/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-01-28_125016_ywn7ro.png,,

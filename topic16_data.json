@@ -1,0 +1,412 @@
+{
+  "sentencesByDialect": {
+    "秀姑巒阿美語": [
+      {
+        "amis": "A: Katomireng ! mitaong ! B: Nga’ay ho singsi !",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ay ho ko namo mapolong ! B: Kamaro’ !",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kasomowal !",
+        "chinese": "A: 請說(說說看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pitengil !",
+        "chinese": "A: 請聽(聽聽看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Picodad !",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Piliso’ ci akongan !",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kacaciyaw !",
+        "chinese": "A: 別說話！(安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kaapac !",
+        "chinese": "A: 別遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pila’om !",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fohaten ko sasingaran ! B: Hay !",
+        "chinese": "A: 開窗(/把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aama, fohaten ho ko paenan ! B: Hay !",
+        "chinese": "A: 祖母，請開門！[較客氣之說法] B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_11.mp3",
+        "image": ""
+      }
+    ],
+    "南勢阿美語": [
+      {
+        "amis": "A: Katemireng ! Micemek! B: Kapah haw kisu,pasevanaay.",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Hay,kapah tu haw kamu,micudaday! B: Kamaru’!",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kasemuwal !",
+        "chinese": "A: 請說說看！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pitengili !",
+        "chinese": "A: 請注意聽！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Picudadi !",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pilisu’i tu vaki!",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kasemuwal!",
+        "chinese": "A: 不要說話！(請安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kautang!",
+        "chinese": "A: 不要遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka palasawad !",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Vawahen ku sasingaran ! B: Hay!",
+        "chinese": "A: 開窗(把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Vayiaw,vawahen ku panan! B: Hay!ini tu!",
+        "chinese": "A: 祖母，請開門！(較客氣之說法) B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/nanshi/4_11.mp3",
+        "image": ""
+      }
+    ],
+    "恆春阿美語": [
+      {
+        "amis": "A: Katomireng! Kapita’ong! B: Nga’ay ho singis!",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ay ho ! B: Kamaro’!",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kasomowal!",
+        "chinese": "A: 請說(說說看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Satengitengilen ho!",
+        "chinese": "A: 請聽(聽聽看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Katayra mitilid!",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Katayra miliso’ ci fofoan!",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kacaciyaw!",
+        "chinese": "A: 別說話！(安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kamaapac!",
+        "chinese": "A: 別遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pipalak!",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fohaten kora tanameng! B: Hay!",
+        "chinese": "A: 開窗(把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fofo, fohaten ho ko fawahan! B: Hay !",
+        "chinese": "A: 祖母，請開門！(較客氣之說法) B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/hengchun/4_11.mp3",
+        "image": ""
+      }
+    ],
+    "海岸阿美語": [
+      {
+        "amis": "A: Katomireng!Mita’ong！ B: Nga’ay ho singsi!",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ay ho kamo mitiliday! B: Kamaro’!",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Da kasomowal!",
+        "chinese": "A: 請說(說說看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tengilen!",
+        "chinese": "A: 請聽(聽聽看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pisa’osi to!",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kapiliso’ to ci akongan!",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka ka caciyaw! / Katomerep!",
+        "chinese": "A: 別說話！(安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka ka apac!",
+        "chinese": "A: 別遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pila’om!",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fawahan ko sasingaran! B: Hayda!",
+        "chinese": "A: 開窗(把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ama, fawahen ho! B: Tayni to!",
+        "chinese": "A: 祖母，請開門！(較客氣之說法) B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/coast/4_11.mp3",
+        "image": ""
+      }
+    ],
+    "馬蘭阿美語": [
+      {
+        "amis": "A: Katomireng! Mita’ong! B: Nga’ayho singsi!",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ayho kamo mitiliday! B: Kamaro’!",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kasomowal! / Pasowal!",
+        "chinese": "A: 請說(說說看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pitengil!",
+        "chinese": "A: 請聽(聽聽看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pitilid!",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Piliso’ to fofo!",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka caciyaw!",
+        "chinese": "A: 別說話！(安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kaapac!",
+        "chinese": "A: 別遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pisaloya!",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fawahen ko palatawan! B: Hay!",
+        "chinese": "A: 開窗(把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fofo, fawahenho ko fawahan! B: Hay! Ila sawni!",
+        "chinese": "A: 祖母，請開門！(較客氣之說法) B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/malan/4_11.mp3",
+        "image": ""
+      }
+    ],
+    "預設": [
+      {
+        "amis": "A: Katomireng ! mitaong ! B: Nga’ay ho singsi !",
+        "chinese": "A: 起立！敬禮！(班長說) B: 老師好！(全班說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ay ho ko namo mapolong ! B: Kamaro’ !",
+        "chinese": "A: 同學好 (老師說) B: 坐下！ (班長說)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kasomowal !",
+        "chinese": "A: 請說(說說看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Pitengil !",
+        "chinese": "A: 請聽(聽聽看)！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Picodad !",
+        "chinese": "A: 去讀書！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Piliso’ ci akongan !",
+        "chinese": "A: 去探望祖父！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kacaciyaw !",
+        "chinese": "A: 別說話！(安靜！)",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kaapac !",
+        "chinese": "A: 別遲到！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pila’om !",
+        "chinese": "A: 別浪費！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fohaten ko sasingaran ! B: Hay !",
+        "chinese": "A: 開窗(/把窗戶打開)！ B: 好！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aama, fohaten ho ko paenan ! B: Hay !",
+        "chinese": "A: 祖母，請開門！[較客氣之說法] B: 好！來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/imperative/xiuguluan/4_11.mp3",
+        "image": ""
+      }
+    ]
+  }
+}

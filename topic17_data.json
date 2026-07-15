@@ -1,0 +1,556 @@
+{
+  "sentencesByDialect": {
+    "秀姑巒阿美語": [
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O singsi no mako ciira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O singsi no mako ciira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O kaka no mako ciira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O kaka no mako ciira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O 'edo kinian.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O kolong kinian.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O takora' kinian.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O ekong kinian.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O kilang kiraan .",
+        "chinese": "A: 那是什麼？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O falo kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O mami' kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O 'ariray kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O sapad kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O pida kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O kafong kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ],
+    "南勢阿美語": [
+      {
+        "amis": "A: Cima kira vavainayan? B: U pasevanaay nu maku cira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kira vavahiyan? B: U pasevanaay nu maku cira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kira vavainayan? B: U kaka nu maku tu vavainayan cira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kira vavahiyan? B: U kaka nu maku tu vavahiyan cira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: U maan kiniyan? B: U edu’ kiniyan.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: U maan kiniyan? B: U rarapa kiniyan.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: U maan kiniyan? B: U tatakula’ kiniyan.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: U maan kiniyan? B: U tuul kiniyan.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U kilang kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U varu kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U kama kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U taviras kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U sapad kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U pida kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: U maan saw kiraan? B: U tuper kiraan.",
+        "chinese": "A: 那是什麼呢？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/nanshi/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ],
+    "恆春阿美語": [
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O singsi ako cingra.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O singsi ako cingra.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O fa'inayan a kaka ako cingra.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O fafahiyan a kaka ako cingra.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: O maan konian ? B: O ^edo konian.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: O maan konian? B: O kolong konian.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: O maan konian? B: O takora' konian.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: O maan konian? B: O ^ekong konian.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O kilang koraan.",
+        "chinese": "A: 那是什麼？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O hana koraan.",
+        "chinese": "A: 那是什麼？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O 'asilo koraan.",
+        "chinese": "A: 那是什麼？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O 'ariray koraan.",
+        "chinese": "A: 那是什麼？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O ^eto koraan.",
+        "chinese": "A: 那是什麼？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O payci koraan.",
+        "chinese": "A: 那是什麼？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O kafong koraan",
+        "chinese": "A: 那是什麼？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/hengchun/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ],
+    "海岸阿美語": [
+      {
+        "amis": "A: Cima kora fa'inayan? B: O singsi ako cingra.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan? B: O singsi ako cingra.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kora fa'inayan? B: O kaka ako cingra.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan? B: O fafahiyan a kaka ako cingra.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: O maan koni? B: O 'edo koni.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: O maan koni? B: O kolong koni.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: O maan koni? B: O takola' koni.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: O maan koni? B: o ekong koni.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O kilang kora.",
+        "chinese": "A: 那是什麼？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O hana kora.",
+        "chinese": "A: 那是什麼？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O mami' kora.",
+        "chinese": "A: 那是什麼？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O 'ariray kora.",
+        "chinese": "A: 那是什麼？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O parad kora.",
+        "chinese": "A: 那是什麼？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O payso kora.",
+        "chinese": "A: 那是什麼？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: O maan kora? B: O kafong kora.",
+        "chinese": "A: 那是什麼？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/coast/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ],
+    "馬蘭阿美語": [
+      {
+        "amis": "A: Cima kora fa'inayan? B: O singsi ako ko mira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan? B: O singsi ako ko mira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kora fa'inayan? B: O fa'inayan a kaka ako ko mira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan? B: O fafahiyan a kaka ako ko mira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: O maan koninian? B: O kacingcon koninian.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: O maan koninian? B: O kolong koninian.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: O maan koninian? B: O takora koninian.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: O maan koninian? B: O ekong koninian.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O kilang koraan.",
+        "chinese": "A: 那是什麼？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O falo koraan.",
+        "chinese": "A: 那是什麼？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O asiro koraan.",
+        "chinese": "A: 那是什麼？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O ariray koraan.",
+        "chinese": "A: 那是什麼？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O cokowi koraan.",
+        "chinese": "A: 那是什麼？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O payso koraan.",
+        "chinese": "A: 那是什麼？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: O maan koraan? B: O kafong koraan.",
+        "chinese": "A: 那是什麼？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/malan/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ],
+    "預設": [
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O singsi no mako ciira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_1.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O singsi no mako ciira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_2.png"
+      },
+      {
+        "amis": "A: Cima kora fa'inayan ? B: O kaka no mako ciira.",
+        "chinese": "A: 那個男人是誰？ B: 他是我的哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_3.png"
+      },
+      {
+        "amis": "A: Cima kora fafahiyan ? B: O kaka no mako ciira.",
+        "chinese": "A: 那個女人是誰？ B: 她是我的姊姊。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_4.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O 'edo kinian.",
+        "chinese": "A: 這是什麼？ B: 這是老鼠。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_5.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O kolong kinian.",
+        "chinese": "A: 這是什麼？ B: 這是牛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_6.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O takora' kinian.",
+        "chinese": "A: 這是什麼？ B: 這是青蛙。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_7.png"
+      },
+      {
+        "amis": "A: O maan kinian ? B: O ekong kinian.",
+        "chinese": "A: 這是什麼？ B: 這是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_8.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O kilang kiraan .",
+        "chinese": "A: 那是什麼？ B: 那是樹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_9.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O falo kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_10.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O mami' kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_11.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O 'ariray kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是玉米。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_12.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O sapad kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是桌子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_13.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O pida kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_14.png"
+      },
+      {
+        "amis": "A: O maan kiraan ? B: O kafong kiraan.",
+        "chinese": "A: 那是什麼？ B: 那是帽子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/info_relation_animals_objects/xiuguluan/1_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/1_15.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1007 @@
+
+    topic10: {
+        id: "topic10",
+        title: "5語版-顏色時間否定指示",
+        sentences: [
+            "O maan konini? (這是什麼?)",
+            "Mafana' kiso to nini? (你知道這個嗎?)"
+        ],
+        dicePrompts: ["ira ko...", "ira ko...", "ira ko..."],
+        gridData: {
+          "a": {
+                    "amis": "vuhecalay",
+                    "chinese": "白色的",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_01.wav",
+                    "color": "#bae6fd"
+          },
+          "b": {
+                    "amis": "muhetingay",
+                    "chinese": "黑色的",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_02.wav",
+                    "color": "#ffe8b3"
+          },
+          "c": {
+                    "amis": "lahengangay",
+                    "chinese": "紅色的",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_03.wav",
+                    "color": "#fb8c00"
+          },
+          "d": {
+                    "amis": "langdaway",
+                    "chinese": "綠色的",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_08.wav",
+                    "color": "#e63946"
+          },
+          "e": {
+                    "amis": "kulit",
+                    "chinese": "顏色",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_09.wav",
+                    "color": "#f48fb1"
+          },
+          "f": {
+                    "amis": "lavii",
+                    "chinese": "晚上",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_02.wav",
+                    "color": "#66bb6a"
+          },
+          "g": {
+                    "amis": "nacila",
+                    "chinese": "昨天",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_03.wav",
+                    "color": "#ba68c8"
+          },
+          "h": {
+                    "amis": "anucila",
+                    "chinese": "明天",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_04.wav",
+                    "color": "#fdd835"
+          },
+          "i": {
+                    "amis": "anini",
+                    "chinese": "今天",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_05.wav",
+                    "color": "#4db6ac"
+          },
+          "j": {
+                    "amis": "davak",
+                    "chinese": "早上",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_06.wav",
+                    "color": "#ff8a65"
+          },
+          "o": {
+                    "amis": "herek nu lahuk",
+                    "chinese": "下午",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_25.wav",
+                    "color": "#bae6fd"
+          },
+          "p": {
+                    "amis": "anini",
+                    "chinese": "現在",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_30.wav",
+                    "color": "#ffe8b3"
+          },
+          "q": {
+                    "amis": "naay",
+                    "chinese": "不要",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_01.wav",
+                    "color": "#fb8c00"
+          },
+          "r": {
+                    "amis": "akaa",
+                    "chinese": "不可以",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_02.wav",
+                    "color": "#e63946"
+          },
+          "s": {
+                    "amis": "caay",
+                    "chinese": "不是",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_03.wav",
+                    "color": "#f48fb1"
+          },
+          "t": {
+                    "amis": "awaay",
+                    "chinese": "沒有",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_04.wav",
+                    "color": "#66bb6a"
+          },
+          "u": {
+                    "amis": "naw'ay",
+                    "chinese": "不要(祈使)",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_05.wav",
+                    "color": "#ba68c8"
+          },
+          "v": {
+                    "amis": "caay kavana'",
+                    "chinese": "不知道",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_06.wav",
+                    "color": "#fdd835"
+          },
+          "w": {
+                    "amis": "itini",
+                    "chinese": "這裡",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_18.wav",
+                    "color": "#4db6ac"
+          },
+          "x": {
+                    "amis": "itila",
+                    "chinese": "那裡",
+                    "image": "",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_19.wav",
+                    "color": "#ff8a65"
+          }
+},
+        gridDataByDialect: {
+          "南勢阿美語": {
+                    "a": {
+                              "amis": "vuhecalay",
+                              "chinese": "白色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "muhetingay",
+                              "chinese": "黑色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "lahengangay",
+                              "chinese": "紅色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "langdaway",
+                              "chinese": "綠色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "kulit",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lavii",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "nacila",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anucila",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "davak",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "herek nu lahuk",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "anini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "naay",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "akaa",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "caay",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "awaay",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "naw'ay",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "caay kavana'",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "itini",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "itila",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "秀姑巒阿美語": {
+                    "a": {
+                              "amis": "fohecalay",
+                              "chinese": "白色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "kohetingay",
+                              "chinese": "黑色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kahengangay",
+                              "chinese": "紅色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kangdaway",
+                              "chinese": "綠色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "cengel",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "dadaya^",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "inacila^",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anocila^",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "dafak",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "herek no lahok",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "matini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "na'ay",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "akaa / tatiih",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "caay / cai",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "na'ayen",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "na'ayen",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "hakeno",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "itini",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "itira",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "海岸阿美語": {
+                    "a": {
+                              "amis": "kohcalay",
+                              "chinese": "白色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "kohtingay",
+                              "chinese": "黑色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kahngangay",
+                              "chinese": "紅色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kandaway",
+                              "chinese": "綠色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "cengel",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "dadaya",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "inacila",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anodafak",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini a romi'ad",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "dafak",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "herek no lahok",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "anini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "naay",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "tati'ih",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "caayay",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "awa",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "aka",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "hakeno",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "ini",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "iraw",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "馬蘭阿美語": {
+                    "a": {
+                              "amis": "kohecal",
+                              "chinese": "白色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "koheting",
+                              "chinese": "黑色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kahengang",
+                              "chinese": "紅色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kangdaw",
+                              "chinese": "綠色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "cengel",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "dadaya",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "nacila",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anocila",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "papacem",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "ikor no lahok",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "hatini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "aka to",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "ca kanga'ay",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "cowa",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "awa",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "aka ka",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "hayken",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "ni",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "ra",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "恆春阿美語": {
+                    "a": {
+                              "amis": "kohecalay",
+                              "chinese": "白色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "kohetingay",
+                              "chinese": "黑色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "kahengangay",
+                              "chinese": "紅色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kangdaway",
+                              "chinese": "綠色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "cengel",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "dadaya",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "nacila",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anocila",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "papacem",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "herek no lahok",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "nohatini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "aka",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "aka a",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "cowa",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "awaay",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "aka ka",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "hayken",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "tini",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "tira",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          },
+          "預設": {
+                    "a": {
+                              "amis": "vuhecalay",
+                              "chinese": "白色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_01.wav",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "muhetingay",
+                              "chinese": "黑色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_02.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "lahengangay",
+                              "chinese": "紅色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_03.wav",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "langdaway",
+                              "chinese": "綠色的",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_08.wav",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "kulit",
+                              "chinese": "顏色",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/22_09.wav",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lavii",
+                              "chinese": "晚上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_02.wav",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "nacila",
+                              "chinese": "昨天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_03.wav",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "anucila",
+                              "chinese": "明天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_04.wav",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "anini",
+                              "chinese": "今天",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_05.wav",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "davak",
+                              "chinese": "早上",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_06.wav",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "herek nu lahuk",
+                              "chinese": "下午",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_25.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "anini",
+                              "chinese": "現在",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/13_30.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "q": {
+                              "amis": "naay",
+                              "chinese": "不要",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_01.wav",
+                              "color": "#fb8c00"
+                    },
+                    "r": {
+                              "amis": "akaa",
+                              "chinese": "不可以",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_02.wav",
+                              "color": "#e63946"
+                    },
+                    "s": {
+                              "amis": "caay",
+                              "chinese": "不是",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_03.wav",
+                              "color": "#f48fb1"
+                    },
+                    "t": {
+                              "amis": "awaay",
+                              "chinese": "沒有",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_04.wav",
+                              "color": "#66bb6a"
+                    },
+                    "u": {
+                              "amis": "naw'ay",
+                              "chinese": "不要(祈使)",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_05.wav",
+                              "color": "#ba68c8"
+                    },
+                    "v": {
+                              "amis": "caay kavana'",
+                              "chinese": "不知道",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/35_06.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "itini",
+                              "chinese": "這裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_18.wav",
+                              "color": "#4db6ac"
+                    },
+                    "x": {
+                              "amis": "itila",
+                              "chinese": "那裡",
+                              "image": "",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/02_19.wav",
+                              "color": "#ff8a65"
+                    }
+          }
+}
+    }
+  

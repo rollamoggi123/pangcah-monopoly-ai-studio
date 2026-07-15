@@ -1,0 +1,988 @@
+{
+  "sentencesByDialect": {
+    "秀姑巒阿美語": [
+      {
+        "amis": "A: O ekong kiraan haw ? B: Caay, caayay ko ekong kiraan.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi ciira haw ? B: Caay, caay ko singsi ciira.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi no miso ciira haw ? B: Caay, caay ko singsi no mako ciira.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O kahengangay ko fodoy nira haw ? B: Caay, caayay ko kahengangay ko fodoy nira.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kareteng kora a ’anengang haw ? B: Caay, caay ka kareteng kora ’anengang.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Takaraw ci ina no miso haw ? B: Caay, caay ka takaraw ciira.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kakaya’ ko fokes no miso haw ? B: Caay, caay ka kakaya’ ko fokes no mako .",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malalok kora tamdaw haw ? B: Caay, caay kalalok ciira .",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ira ko fa’inayan a safa no miso haw ? B: Awaay, awaay ko fa’inayan a safa no mako.",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tata’ak kora loma’ haw ? B: Caay, caay ka tata’ak kora loma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Faedet ko romi’ad anini haw ? B: Caay, caay ka faedet anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Minengneng caira to tilifi to romi’ami’ad haw ? B: Caay, caay pinengneng caira to tilifi to romi’ami’ad .",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Miasip kiso to codad to romi’ami’ad haw ? B: Caay, caay piasip kako to codad to romi’ami’ad.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Miasipay kiso to codad haw ? B: Caay, caayay piasip kako to codad .",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday to ! cilinay kiso haw ? B: Caay, caay ka cilinay kako .",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday haw ? B: Caay, caay ka ’orad !",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah ciira tora codad haw ? B: Caay, caay kaolah ciira tora codad.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’ilol kiso ci amaan haw ? B: Hay, tadama’ilol kako ci amaan.",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tayni kamo i tini a malafi to romi’ami’ad haw ? B: Caay, caay katayni kami a malafi to romi’ami’ad.",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah kora wawa mirenaf haw ? B: Caay, caay kaolah ciira mirenaf .",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mafana’ kora wawa a romadiw haw ? B: Mafokil, mafokil ciira a romadiw.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O tatayra kamo i picodadan a romadiw haw ? B: Caay, caay katayra kami i picodadan a romadiw.",
+        "chinese": "A: 你們正要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Manga’ay kako a masadak misalama i herek no lahok haw ? B: Aka a, caay kanga’ay kiso a masadak misalama.",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matomes to maparo ko mami’ i fakad naira haw ? B: Caay, caay katomes maparo ko mami’ i fakad naira.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kafoti’ ! B: Caay kafoti’ kako.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pifohat ! B: Mafana’ to !",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kapawan minokay a malafi ! B: Mafana’ to !",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_27.mp3",
+        "image": ""
+      }
+    ],
+    "南勢阿美語": [
+      {
+        "amis": "A: U tuul haw kiraan? B: Caay,caay kaw tuul kiraan.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: U pasevanaay haw cira? B: Caay,caay kaw pasevanaay cira.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: U pasevanaay haw nu misu cira? B: Caay,caay kaw pasevanaay nu maku cira.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: U lahengangay haw ku vuduy nu nira? B: Caay,caay kaw lahengangay ku vuduy nu nira.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Vaeket haw kira elun? B: Caay,caay kavaeket kira elun.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tarakaw haw ku wina nu misu? B: Caay,caay katarakaw ku wina nu maku.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Raraya’ haw ku vukes nu misu? B: Caay,caay kararaya ku vukes nu maku.",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malaluk haw kira tamdaw? B: Caay,caay kalaluk cira.",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ira haw ku sava nu misu tu vavainayan? B: Awaay,awaay ku sava nu maku tu vavainayan .",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tataak haw kira luma’? B: Caay,caay katataak kira luma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Caledes haw anini? B: Caay,caay kacaledes anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Saremiremiad sa haw a mimelaw tu tilivi ku heni? B: Caay,caay kasaremiremiad sa a mimelaw tu tilivi ku heni.",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Saremiremiad sa haw kisu a micudad? B: Caay,caay kasaremiremiad sa kaku a micudad.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mimelaw haw kisu tu cudad? B: Caay,caay pimelaw kaku tu cudad.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maurad tu！Sicacevaren haw kisu? B: Caay,caay kasicacevaren kaku.",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maurad tu haw? B: Caay,caay tu kaurad!",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maulah haw cira tira cudadan? B: Caay,caay kaulah cira tira cudadan.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maurun haw kisu tu vayi? B: Hay,maurun kaku tu vayi.",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Saremiremiad sa haw kamu a malavi’ itini? B: Caay,caay kasaremiremiad sa kami a malavi’ itini.",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maulah haw a mikulit kira wawa? B: Caay,caay kaulah a mikulit kira wawa.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mavana’ haw kira wawa a remadiw? B: Caay,mavukil a remadiw cira.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: A tayra haw kamu i cacudadan a remadiw ? B: Caay,caay katayra kami i cacudadan a remadiw.",
+        "chinese": "A: 你們要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: I herek nu lahuk mangaay tu haw kaku a mihulul? B: Aka,akakatahekal kisu a mihulul!",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matumes haw nu kama ku varuru nu heni? B: Caay,caay katumes nu kama ku varuru nu heni.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kavuti’！ B: Caay kavuti’ kaku.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pivawah tu sasaedev! B: Mavana’ tu kaku!",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kapawan a taluma’ a malavi’! B: Mavana’ tu kaku!",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/nanshi/5_27.mp3",
+        "image": ""
+      }
+    ],
+    "恆春阿美語": [
+      {
+        "amis": "A: O ^ekong koriraan haw? B: Cowa, cowa ko ^ekong kora.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi cingra haw? B: Cowa,cowa ko singsi cingra.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi iso cingra haw? B: Cowa, cowa ko singsi ako cingra.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O kahengangay ko riko’ ningra haw? B: Cowa, cowa ko kahengangay ko riko’ ningra.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kaletengay kora ’axenan haw? B: Cowa, cowa ka kaleteng kora ’axenan.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: ’Akawangay ko wina iso haw? B: Cowa, cowa ka ’akawang cingra.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ki’edaway ko fokes no miso haw? B: Cowa, cowa ka ki’edaw ko fokes ako.",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malalokay kora tamdaw haw? B: Cowa,cowa ka lalok cingra.",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Iraay ko fa’inayan a safa iso haw? B: Cowa, awaay ko fa’inayan a safa ako.",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ta’angayay kora loma’ haw? B: Cowa, cowa kata’angay kora loma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fa^edet anini haw? B: Cowa, cowa kafa^edet anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Minengneng to tilifi cangra to romi’ami’ad haw? B: Cowa, cowa pinengneng to tilifi cangra to romi’ami’ad",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mitiliday kiso to romi’ami’ad haw? B: Cowa,cowa pitilid kako to romi’ami’ad.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mitiliday kiso haw? B: Cowa, cowa pitilid kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday to！ cidinayay kiso haw? B: Cowa, cowa kacidinay kako.",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday ho haw? B: Cowa, awaay to ko’orad ano hatini.",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolahay cingra tora tilid haw? B: Cowa,cowa kaolah cingra tora tilid.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’ilolay kiso ci fofoan haw? B: Hay, ma’ilolay kako ci fofoan.",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tayniay kamo to romi’ami’ad a malafi haw? B: Cowa, cowa katayni kami to romo’ami’ad a malafi .",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolahay kora wawa a micoka haw? B: Cowa, cowa kaolah cingra a micoka.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mafana’ay kora wawa a romadiw haw? B: Cowa,cowa kafana’ a romadiw cingra.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tatayray kamo i kongkoan a romadiw haw? B: Cowa, cowa ko tatayra kami i kongkoan a romadiw.",
+        "chinese": "A: 你們正要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Helek no lahok nga’ay kako masadak a misalama haw? B: Cowa,cowa kanga’ay kiso masadak a misalama.",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matomesay to ko ’asilo nangra i kakoyodan haw? B: Cowa,cowa katomes ko ’asilo i kakoyodan nangra.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kafoti’! B: Cowa kafoti’ kako.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pifohat to fawahan! B: Hay, mafana’ay to kako.",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka katawal minokay a malafi ! B: Hay, mafana’ay to kako.",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/hengchun/5_27.mp3",
+        "image": ""
+      }
+    ],
+    "海岸阿美語": [
+      {
+        "amis": "A: O ekong kora? B: Caay, caayay ko ekong kora.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi cingra? B: Caay, caayay ko singsi cingra.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi iso cingra ? B: Caay, caayay ko singsi ako cingra.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O kahengangay ko riko’ nira? B: Caay, caayay ko kahengangay ko riko’ nira.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kareteng kora ’anengan? B: Caay, caayay ka kareteng kora ’anengan.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Takaraw ko ina iso ? B: Caay, caayay ka takaraw ko ina ako.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kakaya ko fokes iso ? B: Caay, caayay ka kakaya ko fokes ako.",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malalok kora tamdaw? B: Caay, caayay ka lalok.",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ira ko fa’inayan a safa iso? B: Awa, awaay ko fa’inayan a safa ako.",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tata’ak kora loma’ ? B: Caay, caayay ka tata’ak kora loma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fa’edet anini a romi’ad? B: Caay, caayay ka fa’edet anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Romi’ami’ad minengneng to tilifi cangra? B: Caay, caayay ka saromi’ami’ad minengneng to tilifi cangra.",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Romi’ami’ad misa’osi kiso? B: Caay, caayay ka saromi’ami’ad misa’osi kako.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Misa’osi kiso? B: Caay, caayay pisa’osi kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’orad to, mihawikid to linay kiso? B: Caay, caayay pihawikid to linay kako.",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’orad to? B: Caay, caayay ka’orad!",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah tora codad cingra? B: Caay, caayay kaolah tora codad cingra.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’ilol ci amaan kiso? B: Hai, ma’ilol ci amaan kako.",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Romi’ami’ad tayni itini a malafi kamo? B: Caay,caayay ka saromi’ami’ad tayni a malafi kami.",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah micoka kora wawa? B: Caay, caayay ka olah micoka cingra.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mafana’ a romadiw kora wawa? B: Mafokil, mafokil a romadiw cingra.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O tatayra i pitilidan a romadiw kamo? B: Caay, caayay ko tatayra i pitilidan a romadiw kami.",
+        "chinese": "A: 你們正要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Manga’ay a masadak misalama kako to herek no lahok ? B: Tati’ih, caay kanga’ay masadak a misalama kiso.",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matomes to maparo ko mami’ i fakar nangra? B: caho,caho katomes a maparo ko mami’ i fakar nangra.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka ka foti’! B: Caho ka foti’ kako.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka fawahen! B: Mafana’ to!",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pitawal minokay malafi yo! B: Mafana’ to!",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/coast/5_27.mp3",
+        "image": ""
+      }
+    ],
+    "馬蘭阿美語": [
+      {
+        "amis": "A: O ekong kora haw? B: Cowa, cowa ko ekong kora.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi ko mira haw? B: Cowa, cowa ko singsi ko mira.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi iso ko mira haw? B: Cowa, cowa ko singsi no mako ko mira.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O kahengangay ko riko’ no mira haw? B: Cowa, cowa ko kahengangay ko riko’ no mira.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Karetengay kora hakenang haw? B: Cowa, ca^ka kareteng kora hakenang.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Akawangay ko wina iso haw? B: Cowa, ca^ka akawang ko wina ako.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: kiedaway ko fokes iso haw? B: Cowa, ca^ka kiedaw ko fokes ako.",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malalokay kora tamdaw haw? B: Cowa, ca^ka lalok ko mira.",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ilaay ko fa’inayan a safa iso haw? B: Awa, awaay ko fa’inayan a safa no mako.",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Taangayay kora loma’ haw? B: Cowa, ca^ka taangay kora loma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Fa^detay ko romiad anini haw? B: Cowa, ca^ka fa^det ko romiad anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Romiamiad minengnengay to tilifi samira haw? B: Cowa, ca^ka romiamiad minengneng to tilifi samira.",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Romiamiad miosiay to tilid kiso haw? B: Cowa, ca^ka romiamiad a miosi to tilid kako.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Miosiay to tilid kiso haw? B: Cowa, ca^ka piosi to tilid kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oradayto! Sidinayay kiso haw? B: Cowa, cowa kasidinay kako.",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday haw? B: Cowa, cowa ka ’orad!",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolahay tora tilid ko mira haw? B: Cowa, cowa kaolah tora tilid ko mira.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mailolay to fofo kiso haw? B: Hay, mailolay to fofo kako .",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tayniay itini malafi to romiamiad kamo haw? B: Cowa, cowa katayni itini malafi to romiamiad kami.",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolahay miconga kora wawa haw? B: Cowa, cowa kaolah miconga ko mira.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mafana’ay lomadiw kora wawa haw? B: Cowa, cowa kafana’ lomadiw ko mira.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O tatayra i kongkoan a lomadiw kamo haw? B: Cowa, cowa ko tatayra i kongkoan a lomadiw kami.",
+        "chinese": "A: 你們正要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Nga’ay masadak misalama i ikor no lahok kako haw? B: Akaa, ca^ka nga’ay masadak misalama kiso!",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matomesayto to asiro ko kadango nangra haw? B: Cowa, cowaho katomes to asiro ko kadango nangra.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kafoti’! B: Cowa kafoti’ kako.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kafawahen! B: Hay, mafana’to kako!",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka katawal minokay a malafi yo! B: Hay, mafana’to kako!",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/malan/5_27.mp3",
+        "image": ""
+      }
+    ],
+    "預設": [
+      {
+        "amis": "A: O ekong kiraan haw ? B: Caay, caayay ko ekong kiraan.",
+        "chinese": "A: 那是貓頭鷹嗎？ B: 不，那不是貓頭鷹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_1.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi ciira haw ? B: Caay, caay ko singsi ciira.",
+        "chinese": "A: 他是老師嗎？ B: 不，他不是老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_2.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O singsi no miso ciira haw ? B: Caay, caay ko singsi no mako ciira.",
+        "chinese": "A: 她是你的老師嗎？ B: 不，她不是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_3.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O kahengangay ko fodoy nira haw ? B: Caay, caayay ko kahengangay ko fodoy nira.",
+        "chinese": "A: 她的衣服是紅色的嗎？ B: 不，她的衣服不是紅色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_4.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kareteng kora a ’anengang haw ? B: Caay, caay ka kareteng kora ’anengang.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子不重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_5.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Takaraw ci ina no miso haw ? B: Caay, caay ka takaraw ciira.",
+        "chinese": "A: 你媽媽很高嗎？ B: 不，我媽媽不高。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_6.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Kakaya’ ko fokes no miso haw ? B: Caay, caay ka kakaya’ ko fokes no mako .",
+        "chinese": "A: 你的頭髮很長嗎？ B: 不，我的頭髮不長。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_7.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Malalok kora tamdaw haw ? B: Caay, caay kalalok ciira .",
+        "chinese": "A: 那個人很勤勞嗎？ B: 不，他不勤勞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_8.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ira ko fa’inayan a safa no miso haw ? B: Awaay, awaay ko fa’inayan a safa no mako.",
+        "chinese": "A: 你有弟弟嗎？ B: 不，我沒有弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_9.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tata’ak kora loma’ haw ? B: Caay, caay ka tata’ak kora loma’.",
+        "chinese": "A: 那間房子很大嗎？ B: 不，那間房子不大。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_10.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Faedet ko romi’ad anini haw ? B: Caay, caay ka faedet anini.",
+        "chinese": "A: 今天熱嗎？ B: 不，今天不熱。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_11.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Minengneng caira to tilifi to romi’ami’ad haw ? B: Caay, caay pinengneng caira to tilifi to romi’ami’ad .",
+        "chinese": "A: 他們天天看電視嗎？ B: 不，他們沒有天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_12.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Miasip kiso to codad to romi’ami’ad haw ? B: Caay, caay piasip kako to codad to romi’ami’ad.",
+        "chinese": "A: 你天天讀書嗎？ B: 不，我沒有天天讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_13.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Miasipay kiso to codad haw ? B: Caay, caayay piasip kako to codad .",
+        "chinese": "A: 你在讀書嗎？ B: 不，我沒有在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_14.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday to ! cilinay kiso haw ? B: Caay, caay ka cilinay kako .",
+        "chinese": "A: 下雨了！你帶著雨傘嗎？ B: 不，我沒帶著雨傘。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_15.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’oraday haw ? B: Caay, caay ka ’orad !",
+        "chinese": "A: 在下雨嗎？ B: 不，沒有在下雨！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_16.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah ciira tora codad haw ? B: Caay, caay kaolah ciira tora codad.",
+        "chinese": "A: 她喜歡那本書嗎？ B: 不，她不喜歡那本書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_17.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Ma’ilol kiso ci amaan haw ? B: Hay, tadama’ilol kako ci amaan.",
+        "chinese": "A: 你很想念祖母嗎？ B: 是，我很想念祖母。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_18.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Tayni kamo i tini a malafi to romi’ami’ad haw ? B: Caay, caay katayni kami a malafi to romi’ami’ad.",
+        "chinese": "A: 你們天天來這裡吃晚餐嗎？ B: 不，我們沒有天天來這裡吃晚餐。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_19.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Maolah kora wawa mirenaf haw ? B: Caay, caay kaolah ciira mirenaf .",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 不，他不喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_20.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Mafana’ kora wawa a romadiw haw ? B: Mafokil, mafokil ciira a romadiw.",
+        "chinese": "A: 那個孩子會唱歌嗎？ B: 不，他不會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_21.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: O tatayra kamo i picodadan a romadiw haw ? B: Caay, caay katayra kami i picodadan a romadiw.",
+        "chinese": "A: 你們正要去學校唱歌嗎？ B: 不，我們不是要去學校唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_22.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Manga’ay kako a masadak misalama i herek no lahok haw ? B: Aka a, caay kanga’ay kiso a masadak misalama.",
+        "chinese": "A: 下午我可以出去玩嗎？(請求同意) B: 不，你不可以出去玩！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_23.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Matomes to maparo ko mami’ i fakad naira haw ? B: Caay, caay katomes maparo ko mami’ i fakad naira.",
+        "chinese": "A: 他們的簍子裝滿了橘子嗎？ B: 不，他們的簍子沒有裝滿橘子。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_24.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kafoti’ ! B: Caay kafoti’ kako.",
+        "chinese": "A: 別睡覺！ B: 我沒有在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_25.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka pifohat ! B: Mafana’ to !",
+        "chinese": "A: 別開門！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_26.mp3",
+        "image": ""
+      },
+      {
+        "amis": "A: Aka kapawan minokay a malafi ! B: Mafana’ to !",
+        "chinese": "A: 別忘記回來吃晚飯喔！ B: 我知道了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/sentence/negative/xiuguluan/5_27.mp3",
+        "image": ""
+      }
+    ]
+  }
+}

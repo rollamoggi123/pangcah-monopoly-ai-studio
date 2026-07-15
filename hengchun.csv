@@ -1,0 +1,24 @@
+id,amis,chinese,image,sound,color
+TITLE,恆春阿美語 顏色・時間・否定・指示（基本詞彙版）,,,,
+SENTENCES,O maan konini? (這是什麼?)|Mafana' kiso to nini? (你知道這個嗎?)|Samanen ko ngiha' nonini? (這個怎麼叫?),,,,
+DICE,ira ko...|ira ko...|ira ko...,,,,
+a,kohecalay,白色,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/white_color.png,https://web.klokah.tw/vocabulary/audio/word/5/22_01.wav,#bae6fd
+b,kohetingay,黑色,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/black_color.png,https://web.klokah.tw/vocabulary/audio/word/5/22_02.wav,#ffe8b3
+c,kahengangay,紅色,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/red_color.png,https://web.klokah.tw/vocabulary/audio/word/5/22_03.wav,#fb8c00
+d,kangdaway,綠色,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/green_color.png,https://web.klokah.tw/vocabulary/audio/word/5/22_08.wav,#e63946
+e,cengel,顏色,https://res.cloudinary.com/dm1ksvptk/image/upload/v1778951234/color_palette.png,https://web.klokah.tw/vocabulary/audio/word/5/22_09.wav,#f48fb1
+f,dadaya,晚上,,https://web.klokah.tw/vocabulary/audio/word/5/13_02.wav,#66bb6a
+g,nacila,昨天,,https://web.klokah.tw/vocabulary/audio/word/5/13_03.wav,#ba68c8
+h,anocila,明天,,https://web.klokah.tw/vocabulary/audio/word/5/13_04.wav,#fdd835
+i,anini,今天,,https://web.klokah.tw/vocabulary/audio/word/5/13_05.wav,#4db6ac
+j,papacem,早上,,https://web.klokah.tw/vocabulary/audio/word/5/13_06.wav,#ff8a65
+k,herek no lahok,下午,,https://web.klokah.tw/vocabulary/audio/word/5/13_25.wav,#bae6fd
+l,nohatini,現在,,https://web.klokah.tw/vocabulary/audio/word/5/13_30.wav,#ffe8b3
+m,aka,不要,,https://web.klokah.tw/vocabulary/audio/word/5/35_01.wav,#fb8c00
+n,aka a,不可以,,https://web.klokah.tw/vocabulary/audio/word/5/35_02.wav,#e63946
+o,cowa,不是,,https://web.klokah.tw/vocabulary/audio/word/5/35_03.wav,#f48fb1
+p,awaay,沒有,,https://web.klokah.tw/vocabulary/audio/word/5/35_04.wav,#66bb6a
+q,aka ka,不要(祈使),,https://web.klokah.tw/vocabulary/audio/word/5/35_05.wav,#ba68c8
+r,hayken,不知道,,https://web.klokah.tw/vocabulary/audio/word/5/35_06.wav,#fdd835
+s,tini,這裡,,https://web.klokah.tw/vocabulary/audio/word/5/02_18.wav,#4db6ac
+t,tira,那裡,,https://web.klokah.tw/vocabulary/audio/word/5/02_19.wav,#ff8a65

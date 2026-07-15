@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Pangcah Monopoly",
+  "description": "An interactive Monopoly-style web game for learning the Amis indigenous language, featuring real-time multiplayer via Firebase.",
+  "requestFramePermissions": []
+}

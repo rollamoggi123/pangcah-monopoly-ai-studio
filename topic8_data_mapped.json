@@ -1,0 +1,712 @@
+{
+  "南勢阿美語": {
+    "a": {
+      "amis": "lutuk",
+      "chinese": "山",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510460/amis_audio/sp_junior/did1_11_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "luma'",
+      "chinese": "家",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510462/amis_audio/sp_junior/did1_11_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "cacudadan",
+      "chinese": "學校",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510464/amis_audio/sp_junior/did1_11_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "cidal",
+      "chinese": "太陽",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510466/amis_audio/sp_junior/did1_11_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "vulad",
+      "chinese": "月亮",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510468/amis_audio/sp_junior/did1_11_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "vuis",
+      "chinese": "星星",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510470/amis_audio/sp_junior/did1_11_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "kutem",
+      "chinese": "雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510472/amis_audio/sp_junior/did1_11_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "talakal ni Adek",
+      "chinese": "彩虹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510475/amis_audio/sp_junior/did1_11_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kakarayan",
+      "chinese": "天空",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510477/amis_audio/sp_junior/did1_11_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "kilakilangan",
+      "chinese": "山林",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510554/amis_audio/vocabulary/did1_10_02.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "sauwac",
+      "chinese": "小溪",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510557/amis_audio/vocabulary/did1_10_03.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "maurad",
+      "chinese": "下雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510560/amis_audio/vocabulary/did1_11_01.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "urad",
+      "chinese": "雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510562/amis_audio/vocabulary/did1_11_06.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "kasienawan",
+      "chinese": "冬天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510564/amis_audio/vocabulary/did1_11_08.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "kalaludan",
+      "chinese": "夏天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510567/amis_audio/vocabulary/did1_11_09.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "kacanglahan",
+      "chinese": "春天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510572/amis_audio/vocabulary/did1_11_25.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "kasariwsiwan",
+      "chinese": "秋天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510574/amis_audio/vocabulary/did1_11_27.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "kacereman nu cidal",
+      "chinese": "日落",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510577/amis_audio/vocabulary/did1_11_29.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "tuemanan",
+      "chinese": "天黑",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510579/amis_audio/vocabulary/did1_11_30.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "valiyusan",
+      "chinese": "刮颱風",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510582/amis_audio/vocabulary/did1_11_32.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "秀姑巒阿美語": {
+    "a": {
+      "amis": "lotok",
+      "chinese": "山",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510479/amis_audio/sp_junior/did2_11_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "loma'",
+      "chinese": "家",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510481/amis_audio/sp_junior/did2_11_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "picodadan",
+      "chinese": "學校",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510483/amis_audio/sp_junior/did2_11_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "cidal",
+      "chinese": "太陽",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510485/amis_audio/sp_junior/did2_11_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "folad",
+      "chinese": "月亮",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510487/amis_audio/sp_junior/did2_11_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fo'is",
+      "chinese": "星星",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510489/amis_audio/sp_junior/did2_11_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "o'ol/cahid",
+      "chinese": "雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510492/amis_audio/sp_junior/did2_11_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "tarakar ni idek / tilo ni idek",
+      "chinese": "彩虹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510494/amis_audio/sp_junior/did2_11_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kakarayan",
+      "chinese": "天空",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510496/amis_audio/sp_junior/did2_11_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "kilakilangan",
+      "chinese": "山林",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510587/amis_audio/vocabulary/did2_10_02.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "alo",
+      "chinese": "小溪",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510590/amis_audio/vocabulary/did2_10_03.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "ma'orad",
+      "chinese": "下雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510592/amis_audio/vocabulary/did2_11_01.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "orad",
+      "chinese": "雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510596/amis_audio/vocabulary/did2_11_06.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "kasienawan",
+      "chinese": "冬天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510599/amis_audio/vocabulary/did2_11_08.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "kaciherangan/lalood",
+      "chinese": "夏天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510602/amis_audio/vocabulary/did2_11_09.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "kacanglahan",
+      "chinese": "春天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510608/amis_audio/vocabulary/did2_11_25.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "kafarawfawan",
+      "chinese": "秋天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510611/amis_audio/vocabulary/did2_11_27.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "micelem to ko cidal",
+      "chinese": "日落",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510614/amis_audio/vocabulary/did2_11_29.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "masefad to ko to'man",
+      "chinese": "天黑",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510616/amis_audio/vocabulary/did2_11_30.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "kafaliyosan",
+      "chinese": "刮颱風",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510619/amis_audio/vocabulary/did2_11_32.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "海岸阿美語": {
+    "a": {
+      "amis": "lotok",
+      "chinese": "山",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510498/amis_audio/sp_junior/did3_11_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "loma'",
+      "chinese": "家",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510500/amis_audio/sp_junior/did3_11_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "pitilidan",
+      "chinese": "學校",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510502/amis_audio/sp_junior/did3_11_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "cidal",
+      "chinese": "太陽",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510504/amis_audio/sp_junior/did3_11_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "folad",
+      "chinese": "月亮",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510506/amis_audio/sp_junior/did3_11_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fo'is",
+      "chinese": "星星",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510508/amis_audio/sp_junior/did3_11_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "kadit",
+      "chinese": "雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510510/amis_audio/sp_junior/did3_11_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "tilo ni Idek",
+      "chinese": "彩虹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510512/amis_audio/sp_junior/did3_11_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kakarayan",
+      "chinese": "天空",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510514/amis_audio/sp_junior/did3_11_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "lotolotokan",
+      "chinese": "山林",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510624/amis_audio/vocabulary/did3_10_02.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "cieci'",
+      "chinese": "小溪",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510626/amis_audio/vocabulary/did3_10_03.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "ma'orad",
+      "chinese": "下雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510628/amis_audio/vocabulary/did3_11_01.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "orad",
+      "chinese": "雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510631/amis_audio/vocabulary/did3_11_06.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "kasienawan",
+      "chinese": "冬天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510633/amis_audio/vocabulary/did3_11_08.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "kaciherangan",
+      "chinese": "夏天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510636/amis_audio/vocabulary/did3_11_09.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "kacanglahan",
+      "chinese": "春天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510641/amis_audio/vocabulary/did3_11_25.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "kalaloodan",
+      "chinese": "秋天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510644/amis_audio/vocabulary/did3_11_27.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "hakakerem",
+      "chinese": "日落",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510647/amis_audio/vocabulary/did3_11_29.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "to'eman",
+      "chinese": "天黑",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510649/amis_audio/vocabulary/did3_11_30.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "mafaliyos",
+      "chinese": "刮颱風",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510652/amis_audio/vocabulary/did3_11_32.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "馬蘭阿美語": {
+    "a": {
+      "amis": "tokos",
+      "chinese": "山",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510516/amis_audio/sp_junior/did4_11_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "loma'",
+      "chinese": "家",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510518/amis_audio/sp_junior/did4_11_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kongkoan",
+      "chinese": "學校",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510520/amis_audio/sp_junior/did4_11_3.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "cidal",
+      "chinese": "太陽",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510522/amis_audio/sp_junior/did4_11_4.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "folad",
+      "chinese": "月亮",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510524/amis_audio/sp_junior/did4_11_5.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fo'is",
+      "chinese": "星星",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510526/amis_audio/sp_junior/did4_11_6.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "toem",
+      "chinese": "雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510528/amis_audio/sp_junior/did4_11_7.mp3",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "talakar ni Idek",
+      "chinese": "彩虹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510530/amis_audio/sp_junior/did4_11_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kakarayan",
+      "chinese": "天空",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510532/amis_audio/sp_junior/did4_11_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "lotok",
+      "chinese": "山林",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510657/amis_audio/vocabulary/did4_10_02.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "ci'ci'",
+      "chinese": "小溪",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510659/amis_audio/vocabulary/did4_10_03.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "ma'orad",
+      "chinese": "下雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510662/amis_audio/vocabulary/did4_11_01.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "orad",
+      "chinese": "雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510664/amis_audio/vocabulary/did4_11_06.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "kasienawan",
+      "chinese": "冬天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510666/amis_audio/vocabulary/did4_11_08.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "laloodan",
+      "chinese": "夏天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510669/amis_audio/vocabulary/did4_11_09.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "kacanglahan",
+      "chinese": "春天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510674/amis_audio/vocabulary/did4_11_25.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "kafarawfawan",
+      "chinese": "秋天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510677/amis_audio/vocabulary/did4_11_27.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "maringaring",
+      "chinese": "日落",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510679/amis_audio/vocabulary/did4_11_29.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "to'eman",
+      "chinese": "天黑",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510681/amis_audio/vocabulary/did4_11_30.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "mafaliyos",
+      "chinese": "刮颱風",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940776/Gemini_Generated_Image_3nxd9g3nxd9g3nxd_ys709u.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510684/amis_audio/vocabulary/did4_11_32.wav",
+      "color": "#ff8a65"
+    }
+  },
+  "恆春阿美語": {
+    "a": {
+      "amis": "lotok",
+      "chinese": "山",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778934960/Gemini_Generated_Image_nb8gp1nb8gp1nb8g_llhrdf.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510534/amis_audio/sp_junior/did5_11_1.mp3",
+      "color": "#bae6fd"
+    },
+    "b": {
+      "amis": "loma'",
+      "chinese": "家",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935143/Gemini_Generated_Image_gp0qt0gp0qt0gp0q_lmcgsp.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510535/amis_audio/sp_junior/did5_11_2.mp3",
+      "color": "#ffe8b3"
+    },
+    "c": {
+      "amis": "kongkoan",
+      "chinese": "學校",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778935511/unnamed_kluw8s.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510539/amis_audio/sp_junior/did5_11_4.mp3",
+      "color": "#fb8c00"
+    },
+    "d": {
+      "amis": "cidal",
+      "chinese": "太陽",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936150/copy_of_unnamed_3_tvfuqa.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510541/amis_audio/sp_junior/did5_11_5.mp3",
+      "color": "#e63946"
+    },
+    "e": {
+      "amis": "folad",
+      "chinese": "月亮",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778936398/Gemini_Generated_Image_h5oyy5h5oyy5h5oy_nywaek.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510543/amis_audio/sp_junior/did5_11_6.mp3",
+      "color": "#f48fb1"
+    },
+    "f": {
+      "amis": "fo'is",
+      "chinese": "星星",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937086/Gemini_Generated_Image_79nivo79nivo79ni_ru93ep.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510545/amis_audio/sp_junior/did5_11_7.mp3",
+      "color": "#66bb6a"
+    },
+    "g": {
+      "amis": "o'ol;carofacof",
+      "chinese": "雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937367/unnamed_5_ntvwmu.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510705/amis_audio/vocabulary/did5_11_12.wav",
+      "color": "#ba68c8"
+    },
+    "h": {
+      "amis": "lidek",
+      "chinese": "彩虹",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937541/Gemini_Generated_Image_9ar6tr9ar6tr9ar6_ligz9v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510547/amis_audio/sp_junior/did5_11_8.mp3",
+      "color": "#fdd835"
+    },
+    "i": {
+      "amis": "kakalayan",
+      "chinese": "天空",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937639/Gemini_Generated_Image_pp1r97pp1r97pp1r_labr8v.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510549/amis_audio/sp_junior/did5_11_9.mp3",
+      "color": "#4db6ac"
+    },
+    "j": {
+      "amis": "lotolotokan",
+      "chinese": "山林",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937709/Gemini_Generated_Image_t1oaczt1oaczt1oa_l4zjc8.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510688/amis_audio/vocabulary/did5_10_02.wav",
+      "color": "#ff8a65"
+    },
+    "o": {
+      "amis": "alo",
+      "chinese": "小溪",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937781/Gemini_Generated_Image_790nww790nww790n_fnvubi.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510692/amis_audio/vocabulary/did5_10_03.wav",
+      "color": "#bae6fd"
+    },
+    "p": {
+      "amis": "ma'orad",
+      "chinese": "下雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778937929/Gemini_Generated_Image_gcn621gcn621gcn6_iui1zt.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510694/amis_audio/vocabulary/did5_11_01.wav",
+      "color": "#ffe8b3"
+    },
+    "q": {
+      "amis": "orad",
+      "chinese": "雨",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938494/unnamed_9_n6bf7b.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510697/amis_audio/vocabulary/did5_11_06.wav",
+      "color": "#fb8c00"
+    },
+    "r": {
+      "amis": "katiposan",
+      "chinese": "冬天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938709/unnamed_10_x47k6x.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510699/amis_audio/vocabulary/did5_11_08.wav",
+      "color": "#e63946"
+    },
+    "s": {
+      "amis": "kacidalan / laloodan",
+      "chinese": "夏天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939133/06957e05-da09-48c5-955d-39601594a1dd_x8ln5h.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510703/amis_audio/vocabulary/did5_11_09.wav",
+      "color": "#f48fb1"
+    },
+    "t": {
+      "amis": "o'ol /carofacof",
+      "chinese": "彩雲",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-05-16_215605_d5jjjq.png",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510705/amis_audio/vocabulary/did5_11_12.wav",
+      "color": "#66bb6a"
+    },
+    "u": {
+      "amis": "kacanglahan",
+      "chinese": "春天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778938926/7db6e1a2-2740-4430-94a0-39aa004d34db_fqlijc.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510708/amis_audio/vocabulary/did5_11_25.wav",
+      "color": "#ba68c8"
+    },
+    "v": {
+      "amis": "kafarawfawan",
+      "chinese": "秋天",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778939262/unnamed_12_b6cyfs.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510710/amis_audio/vocabulary/did5_11_27.wav",
+      "color": "#fdd835"
+    },
+    "w": {
+      "amis": "micelem ko cidal",
+      "chinese": "日落",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940047/unnamed_15_ovtzbv.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510713/amis_audio/vocabulary/did5_11_29.wav",
+      "color": "#4db6ac"
+    },
+    "x": {
+      "amis": "to'eman",
+      "chinese": "天黑",
+      "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778940175/unnamed_16_qesivg.jpg",
+      "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/v1779510716/amis_audio/vocabulary/did5_11_30.wav",
+      "color": "#ff8a65"
+    }
+  }
+}

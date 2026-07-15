@@ -1,0 +1,974 @@
+{
+  "sentencesByDialect": {
+    "秀姑巒阿美語": [
+      {
+        "amis": "A: O sito kiso haw ? B: Hay, o sito kako.",
+        "chinese": "A: 你是學生嗎？ B: 是，我是學生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_1.png"
+      },
+      {
+        "amis": "A: O singsi ciira haw ? B: Caay, o ising ciira.",
+        "chinese": "A: 他是老師嗎？ B: 不是，他是醫生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_2.png"
+      },
+      {
+        "amis": "A: O singsi no miso ciira haw ? B: Hay, o singsi no mako ciira.",
+        "chinese": "A: 他是你的老師嗎？ B: 是/對，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_3.png"
+      },
+      {
+        "amis": "A: O faki no miso ciira haw ? B: Caay, o singsi no mako ciira.",
+        "chinese": "A: 他是你的叔叔嗎？ B: 不是，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_4.png"
+      },
+      {
+        "amis": "A: Cecay ko fafahiyan a safa no miso haw ? B: Caay, tatosa ko fafahiyan a safa no mako.",
+        "chinese": "A: 你有一個妹妹嗎？ B: 不，我有二個妹妹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_5.png"
+      },
+      {
+        "amis": "A: Tatosa ko fa'inayan a safa no miso haw ? B: Caay, cecay ko fa'inayan a kaka ato cecay ko fa'inayan a safas no mako.",
+        "chinese": "A: 你有兩個弟弟嗎？ B: 不，我有一個哥哥一個弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_6.png"
+      },
+      {
+        "amis": "A: Tatosa ko fafahiyan a kaka no miso haw ? B: Caay, cecay ko fafahiyan a kaka ato cecay ko fa'inayan a kaka no mako.",
+        "chinese": "A: 你有兩個姊姊嗎？ B: 不，我有一個姊姊一個哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_7.png"
+      },
+      {
+        "amis": "A: O pida no mako kinian haw ? B: Hay, o pida no miso kinian.",
+        "chinese": "A: 這是我的錢嗎？ B: 是的，這是你的錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_8.png"
+      },
+      {
+        "amis": "A: O falo no miso kiraan haw ? B: Caay, caayay ko falo no mako kiraan.",
+        "chinese": "A: 那些是你的花嗎？ B: 不是，那些不是我的花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_9.png"
+      },
+      {
+        "amis": "A: Mamaan kiso? B: Adada ko tangal no mako.",
+        "chinese": "A: 你怎麼了？ B: 我的頭很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_10.png"
+      },
+      {
+        "amis": "A: Mamaan kiso? B: Adada ko mata no mako.",
+        "chinese": "A: 你怎麼了？ B: 我的眼睛很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_11.png"
+      },
+      {
+        "amis": "A: Kareteng kora sapad haw ? B: Hay, kareteng kora sapat.",
+        "chinese": "A: 這張桌子很重嗎？ B: 是/對，這張桌子很重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_12.png"
+      },
+      {
+        "amis": "A: Kareteng kora 'anengang haw ? B: Caay, dahemaw kora 'anengang.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子很輕。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_13.png"
+      },
+      {
+        "amis": "A: O kohetingay ko posi no miso haw ? B: Hay, o kohetingay ko posi no mako.",
+        "chinese": "A: 你的貓是黑色的嗎？ B: 是/對，我的貓是黑色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_14.png"
+      },
+      {
+        "amis": "A: Minengneng caira to tilifi to romi'admi'ad haw ? B: Hay, minengneng caira to tilifi to romi'admi'ad.",
+        "chinese": "A: 他們天天看電視嗎？ B: 是/對，他們天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_15.png"
+      },
+      {
+        "amis": "A: Fangcal ko romi'ad anini haw ? B: Hay, fangcal ko romi'ad anini.",
+        "chinese": "A: 今天天氣好嗎？ B: 是/對，今天天氣很好。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/4_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_16.png"
+      },
+      {
+        "amis": "A: Miasipay kiso to codad haw ? B: Hay, o miasipay kako to codad.",
+        "chinese": "A: 你在讀書嗎？ B: 是的，我在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_1.png"
+      },
+      {
+        "amis": "A: Miasipay kiso to codad i matini haw ? B: Caay, o mirenafay kako i matini.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我在畫畫。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_2.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafahiyan a safa no miso haw ? B: Hay,mafati'ay ciira i matini.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 是的，她在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_3.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafahiyan a safa no miso i matini haw ? B: Caay,masakeroy ciira i matini.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 不是，她在跳舞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_4.png"
+      },
+      {
+        "amis": "A: Misalamaay kora wawawawa haw ? B: Hay, misalamaay kora wawawawa.",
+        "chinese": "A: 那些孩子在玩耍嗎？ B: 是/對，那些孩子在玩耍。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_5.png"
+      },
+      {
+        "amis": "A: Romadiway caira i matini haw ? B: Caay,miasipay to codad caira i matini.",
+        "chinese": "A: 他們在唱歌嗎？ B: 不是，他們在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_6.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw ? B: Hay, ma'oraday i matini.",
+        "chinese": "A: 在下雨嗎？ B: 是/對，正在下雨。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_7.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw? B: Caay,masadakay to ko cidal.",
+        "chinese": "A: 在下雨嗎？ B: 不，太陽出來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_8.png"
+      },
+      {
+        "amis": "A: Mararid kamo a miliso' ci akongan haw ? B: Hay,mararid kami a miliso' ci akongan.",
+        "chinese": "A: 你們常常去探望祖父嗎？ B: 對，我們常常去探望祖父。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_9.png"
+      },
+      {
+        "amis": "A: Mafana' kiso a mifaca' to fodoy haw ? B: Hay,mafana' kako a mifaca' to fodoy.",
+        "chinese": "A: 你會洗衣服嗎？ B: 會，我會洗衣服。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_10.png"
+      },
+      {
+        "amis": "A: Mafana' romadiw kora wawawawa haw ? B: Hay,mafana' romadiw caira.",
+        "chinese": "A: 那些孩子會唱歌嗎？ B: 是，他們很會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_11.png"
+      },
+      {
+        "amis": "A: Maolah kiso a miasip to codad haw ? B: Hay,maolah kako a miasip to codad.",
+        "chinese": "A: 你喜歡讀書嗎？ B: 是/對，我喜歡讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_12.png"
+      },
+      {
+        "amis": "A: Maolah a mirenaf kora wawa haw ? B: Hay, maolah mirenaf kora wawa.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 是/對，他很喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_13.png"
+      },
+      {
+        "amis": "A: Maolah a romadiw kora wawawawa haw ? B: Hay,maolah caira a romadiw .",
+        "chinese": "A: 那些孩子喜歡唱歌嗎？ B: 是，他們喜歡唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_14.png"
+      },
+      {
+        "amis": "A: Maolah a masakero kora wawawawa haw ? B: Caay,maolah caira a minengneng to tilifi.",
+        "chinese": "A: 那些孩子喜歡跳舞嗎？ B: 不，他們喜歡看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_15.png"
+      },
+      {
+        "amis": "A: Maolah misalama kora wawawawa haw ? B: Caay, maolah caira komaen to kakaenen.",
+        "chinese": "A: 那些孩子喜歡玩耍嗎？ B: 不，他們喜歡吃東西。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/xiuguluan/5_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_16.png"
+      }
+    ],
+    "南勢阿美語": [
+      {
+        "amis": "A: U micudaday haw kisu? B: Hay,u micudaday kaku.",
+        "chinese": "A: 你是學生嗎？ B: 是，我是學生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_1.png"
+      },
+      {
+        "amis": "A: U pasevanaay haw cira? B: Caay,u ising cira.",
+        "chinese": "A: 他是老師嗎？ B: 不是，他是醫生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_2.png"
+      },
+      {
+        "amis": "A: U pasevanaay haw nu misu cira? B: Hay,u pasevanaay nu maku cira.",
+        "chinese": "A: 他是你的老師嗎？ B: 是/對，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_3.png"
+      },
+      {
+        "amis": "A: U vaki haw nu misu cira? B: Caay,u pasevanaay nu maku cira.",
+        "chinese": "A: 他是你的叔叔嗎？ B: 不是，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_4.png"
+      },
+      {
+        "amis": "A: Cacay haw ku vavahiyan a sava nu misu? B: Caay,tatusa ku sava nu maku tu vavahiyan.",
+        "chinese": "A: 你有一個妹妹嗎？ B: 不，我有二個妹妹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_5.png"
+      },
+      {
+        "amis": "A: Tatusa haw ku vavainayan a sava nu misu? B: Caay,cacay ku kaka tu vavainayan atu cacay ku sava tu vavainayan.",
+        "chinese": "A: 你有兩個弟弟嗎？ B: 不，我有一個哥哥一個弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_6.png"
+      },
+      {
+        "amis": "A: Tatusa haw ku kaka nu misu tu vavahiyan? B: Caay,cacay ku kaka tu vavahiyan atu cacay ku kaka tu vavainayan.",
+        "chinese": "A: 你有兩個姊姊嗎？ B: 不，我有一個姊姊一個哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_7.png"
+      },
+      {
+        "amis": "A: U pida haw nu maku kiniyan? B: Hay,u pida nu misu kiniyan.",
+        "chinese": "A: 這是我的錢嗎？ B: 是的，這是你的錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_8.png"
+      },
+      {
+        "amis": "A: U varu haw nu misu kiraan? B: Caay,caay kaw nu maku a varu kiraan.",
+        "chinese": "A: 那些是你的花嗎？ B: 不是，那些不是我的花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_9.png"
+      },
+      {
+        "amis": "A: Mamaan saw kisu? B: Adada ku tangal nu maku.",
+        "chinese": "A: 你怎麼了？ B: 我的頭很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_10.png"
+      },
+      {
+        "amis": "A: Mamaan saw kisu? B: Adada ku mata nu maku.",
+        "chinese": "A: 你怎麼了？ B: 我的眼睛很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_11.png"
+      },
+      {
+        "amis": "A: Vaeket haw kina sapad? B: Hay,vaeket kina sapad.",
+        "chinese": "A: 這張桌子很重嗎？ B: 是/對，這張桌子很重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_12.png"
+      },
+      {
+        "amis": "A: Vaeket haw kira elun? B: Caay,ahemaw kira elun.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子很輕。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_13.png"
+      },
+      {
+        "amis": "A: U muhetingay haw ku nani nu misu? B: Hay,u muhetingay ku nani nu maku.",
+        "chinese": "A: 你的貓是黑色的嗎？ B: 是/對，我的貓是黑色的。",
+        "sound": "",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_14.png"
+      },
+      {
+        "amis": "A: Saremiremiad sa haw a mimelaw tu tilivi ku heni? B: Hay,saremiremiad sa a mimelaw tu tilivi ku heni.",
+        "chinese": "A: 他們天天看電視嗎？ B: 是/對，他們天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_15.png"
+      },
+      {
+        "amis": "A: Kapah haw ku remiad anini? B: Hay,kapah ku remiad anini.",
+        "chinese": "A: 今天天氣好嗎？ B: 是/對，今天天氣很好。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/4_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_16.png"
+      },
+      {
+        "amis": "A: Micudad haw kisu? B: Hay,micudad kaku.",
+        "chinese": "A: 你在讀書嗎？ B: 是的，我在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_1.png"
+      },
+      {
+        "amis": "A: Micudad haw kisu? B: Caay,mikulit kaku.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我在畫畫���",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_2.png"
+      },
+      {
+        "amis": "A: Mavuti’ haw ku sava nu misu tu vavahiyan? B: Hay,mavuti’ cira.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 是的，她在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_3.png"
+      },
+      {
+        "amis": "A: Mavuti’ haw ku sava nu misu tu vavahiyan? B: Caay,misakeru cira.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 不是，她在跳舞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_4.png"
+      },
+      {
+        "amis": "A: Mihulul haw kira adiwawa? B: Hay,mihulul kira adiwawa.",
+        "chinese": "A: 那些孩子在玩耍嗎？ B: 是/對，那些孩子在玩耍。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_5.png"
+      },
+      {
+        "amis": "A: Remadiw haw ku heni? B: Caay,micudad ku heni.",
+        "chinese": "A: 他們在唱歌嗎？ B: 不是，他們在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_6.png"
+      },
+      {
+        "amis": "A: Maurad haw? B: Hay,maurad hen.",
+        "chinese": "A: 在下雨嗎？ B: 是/對，正在下雨。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_7.png"
+      },
+      {
+        "amis": "A: Maurad haw? B: Caay,cidalan tu.",
+        "chinese": "A: 在下雨嗎？ B: 不，太陽出來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_8.png"
+      },
+      {
+        "amis": "A: Hinalisu’ haw kamu i ci vakiyan? B: Hay,hinalisu’ kami i ci vakiyan.",
+        "chinese": "A: 你們常常去探望祖父嗎？ B: 對，我們常常去探望祖父。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_9.png"
+      },
+      {
+        "amis": "A: Mavana’ haw kisu a mivaca’ tu vuduy? B: Hay,mavana’ kaku a mivaca’ tu vuduy.",
+        "chinese": "A: 你會洗衣服嗎？ B: 會，我會洗衣服。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_10.png"
+      },
+      {
+        "amis": "A: Mavana’ haw a remadiw kira adiwawa? B: Hay,mavana’ ku heni a remadiw.",
+        "chinese": "A: 那些孩子會唱歌嗎？ B: 是，他們很會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_11.png"
+      },
+      {
+        "amis": "A: Maulah haw a micudad kisu? B: Hay,maulah kaku a micudad.",
+        "chinese": "A: 你喜歡讀書嗎？ B: 是/對，我喜歡讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_12.png"
+      },
+      {
+        "amis": "A: Maulah haw kira wawa a mikulit? B: Hay,maulah cira a mikulit.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 是/對，他很喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_13.png"
+      },
+      {
+        "amis": "A: Maulah haw a remadiw kira wawa? B: Hay,maulah ku heni a remadiw.",
+        "chinese": "A: 那些孩子喜歡唱歌嗎？ B: 是，他們喜歡唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_14.png"
+      },
+      {
+        "amis": "A: Maulah haw a misakeru kira adiwawa? B: Caay,maulah a mimelaw tu tilivi ku heni.",
+        "chinese": "A: 那些孩子喜歡跳舞嗎？ B: 不，他們喜歡看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_15.png"
+      },
+      {
+        "amis": "A: Maulah haw a mihulul kira adiwawa? B: Caay,maulah ku heni a kemaen tu maamaan.",
+        "chinese": "A: 那些孩子喜歡玩耍嗎？ B: 不，他們喜歡吃東西。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/nanshi/5_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_16.png"
+      }
+    ],
+    "恆春阿美語": [
+      {
+        "amis": "A: O mitiliday ho kiso haw? B: Hay, o mitiliday ho kako.",
+        "chinese": "A: 你是學生嗎？ B: 是，我是學生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_1.png"
+      },
+      {
+        "amis": "A: O singsi cingra haw? B: Cowa, o ising cingra.",
+        "chinese": "A: 他是老師嗎？ B: 不是，他是醫生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_2.png"
+      },
+      {
+        "amis": "A: O singsi iso cingra haw? B: Hay, o singsi ako cingra.",
+        "chinese": "A: 他是你的老師嗎？ B: 是/對，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_3.png"
+      },
+      {
+        "amis": "A: O faki iso cingra haw? B: Cowa, o singsi ako cingra.",
+        "chinese": "A: 他是你的叔叔嗎？ B: 不是，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_4.png"
+      },
+      {
+        "amis": "A: Iraay ko cecay a fafahiyan a safa iso haw? B: Cowa, tatosaay ko fafahiyan a safa no mako.",
+        "chinese": "A: 你有一個妹妹嗎？ B: 不，我有二個妹妹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_5.png"
+      },
+      {
+        "amis": "A: Ira ko tatosa a safa iso to fa'inayan haw? B: Cowa, cecayay ko fa'inayan a kaka no mako.",
+        "chinese": "A: 你有兩個弟弟嗎？ B: 不，我有一個哥哥一個弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_6.png"
+      },
+      {
+        "amis": "A: Ira ko tatosa a kaka iso to fafahiyanan haw? B: Cowa, ira ko cecay fafahiyan a kaka ato cecay fa'inayan a kaka ako.",
+        "chinese": "A: 你有兩個姊姊嗎？ B: 不，我有一個姊姊一個哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_7.png"
+      },
+      {
+        "amis": "A: O payci ako koninian haw? B: Hay, o payci iso koninian.",
+        "chinese": "A: 這是我的錢嗎？ B: 是的，這是你的錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_8.png"
+      },
+      {
+        "amis": "A: O hana no miso koraan haw? B: Cowa ko mako a hana koraan.",
+        "chinese": "A: 那些是你的花嗎？ B: 不是，那些不是我的花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_9.png"
+      },
+      {
+        "amis": "A: Mamaanay kiso? B: Adadaay ko fongoh ako.",
+        "chinese": "A: 你怎麼了？ B: 我的頭很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_10.png"
+      },
+      {
+        "amis": "A: Mamaanay kiso? B: Adadaay ko mata ako.",
+        "chinese": "A: 你怎麼了？ B: 我的眼睛很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_11.png"
+      },
+      {
+        "amis": "A: Kaletengay kona ^eto haw? B: Hay, kaletengay kona ^eto.",
+        "chinese": "A: 這張桌子很重嗎？ B: 是/對，這張桌子很重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_12.png"
+      },
+      {
+        "amis": "A: Kaletengay kara 'axenan haw? B: Cowa, kahemaway kora 'axenan.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子很輕。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_13.png"
+      },
+      {
+        "amis": "A: O kohetingay kora ngiyaw iso haw? B: Hay, o kohetingay kora ngiyaw ako.",
+        "chinese": "A: 你的貓是黑色的嗎？ B: 是/對，我的貓是黑色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_14.png"
+      },
+      {
+        "amis": "A: Minengneng to tilifi cangra to romi'ami'ad haw? B: Hay, minengnengay to tilifi cangra to romi'ami'ad.",
+        "chinese": "A: 他們天天看電視嗎？ B: 是/對，他們天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_15.png"
+      },
+      {
+        "amis": "A: Nga'ayay ko romi'ad anini haw? B: Hay,nga'ayay ko romi'ad anini.",
+        "chinese": "A: 今天天氣好嗎？ B: 是/對，今天天氣很好。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/4_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_16.png"
+      },
+      {
+        "amis": "A: Mitiliday kiso haw? B: Hay, mitiliday kako.",
+        "chinese": "A: 你在讀書嗎？ B: 是的，我在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_1.png"
+      },
+      {
+        "amis": "A: Mitiliday kiso haw? B: Cowa, micokaay kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我在畫畫。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_2.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafafiyan a safa iso haw? B: Hay, mafoti'ay ho cingra.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 是的，她在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_3.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafahiyan a safa iso haw? B: Cowa, makeroay cingra.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 不是，她在跳舞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_4.png"
+      },
+      {
+        "amis": "A: Mihalamay kora wawa haw? B: Hay, mihalamay kora wawa.",
+        "chinese": "A: 那些孩子在玩耍嗎？ B: 是/對，那些孩子在玩耍。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_5.png"
+      },
+      {
+        "amis": "A: Romadiway cangra haw? B: Cowa, mitiliday cangra.",
+        "chinese": "A: 他們在唱歌嗎？ B: 不是，他們在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_6.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw? B: Hay, ma'oraday.",
+        "chinese": "A: 在下雨嗎？ B: 是/對，正在下雨。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_7.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw? B: Cowa, mahadakay ko cidal",
+        "chinese": "A: 在下雨嗎？ B: 不，太陽出來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_8.png"
+      },
+      {
+        "amis": "A: Marariday kamo miliso' ci fofofan haw? B: Hay, Malariday kami miliso' ci fofofan.",
+        "chinese": "A: 你們常常去探望祖父嗎？ B: 對，我們常常去探望祖父。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_9.png"
+      },
+      {
+        "amis": "A: Mafana'ay kiso mifaca' to riko' haw? B: Hay, mafana'ay kako mifaca' to riko'.",
+        "chinese": "A: 你會洗衣服嗎？ B: 會，我會洗衣服。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_10.png"
+      },
+      {
+        "amis": "A: Mafana'ay kora wawa a romadiw haw? B: Hay, mafana'ay cangra a romadiw.",
+        "chinese": "A: 那些孩子會唱歌嗎？ B: 是，他們很會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_11.png"
+      },
+      {
+        "amis": "A: Maolahay kiso a mitilid haw? B: Hay, maolahay kako a mitilid.",
+        "chinese": "A: 你喜歡讀書嗎？ B: 是/對，我喜歡讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_12.png"
+      },
+      {
+        "amis": "A: Maolahay kora wawa a micoka haw? B: Hay, maolahay cingra a micoka.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: ���/對，他很喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_13.png"
+      },
+      {
+        "amis": "A: Maolahay kora wawa a romadiw haw? B: Hay, maolahay cangra a romadiw.",
+        "chinese": "A: 那些孩子喜歡唱歌嗎？ B: 是，他們喜歡唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_14.png"
+      },
+      {
+        "amis": "A: Maolahay kora wawa a makero haw? B: Cawa, maolahay cangra a minengneng to tilifi.",
+        "chinese": "A: 那些孩子喜歡跳舞嗎？ B: 不，他們喜歡看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_15.png"
+      },
+      {
+        "amis": "A: Maolahay kora wawa a mihalama haw? B: Cowa, maolahay cangra a komaen.",
+        "chinese": "A: 那些孩子喜歡玩耍嗎？ B: 不，他們喜歡吃東西。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/hengchun/5_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_16.png"
+      }
+    ],
+    "海岸阿美語": [
+      {
+        "amis": "A: O mitiliday kiso ? B: Hai, o mitiliday kako.",
+        "chinese": "A: 你是學生嗎？ B: 是，我是學生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_1.png"
+      },
+      {
+        "amis": "A: O singsi cingra ? B: Caayay, o ising cingra.",
+        "chinese": "A: 他是老師嗎？ B: 不是，他是醫生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_2.png"
+      },
+      {
+        "amis": "A: O singsi iso cingra? B: Hai, o singsi ako cingra.",
+        "chinese": "A: 他是你的老師嗎？ B: 是/對，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_3.png"
+      },
+      {
+        "amis": "A: O faki iso cingra ? B: Caayay, o singsi ako cingra.",
+        "chinese": "A: 他是你的叔叔嗎？ B: 不是，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_4.png"
+      },
+      {
+        "amis": "A: Ira ko cecay fafahiyan a safa iso ? B: Caayay, tatosa ko fafahiyan a safa ako .",
+        "chinese": "A: 你有一個妹妹嗎？ B: 不，我有二個妹妹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_5.png"
+      },
+      {
+        "amis": "A: Tatosa ko fa'inayan a safa iso ? B: Caayay, cecay ko fa'inayan a kaka cecay ko fa'inayan a safa.",
+        "chinese": "A: 你有兩個弟弟嗎？ B: 不，我有一個哥哥一個弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_6.png"
+      },
+      {
+        "amis": "A: Tatosa ko fafahiyan a kaka iso ? B: Caayay, cecay ko fafahiyan a kaka cecay ko fa'inayan a kaka.",
+        "chinese": "A: 你有兩個姊姊嗎？ B: 不，我有一個姊姊一個哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_7.png"
+      },
+      {
+        "amis": "A: O payso ako koni ? B: Hai, o payso iso koni.",
+        "chinese": "A: 這是我的錢嗎？ B: 是的，這是你的錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_8.png"
+      },
+      {
+        "amis": "A: O hana iso kora ? B: Caay, caayay ko hana ako kora.",
+        "chinese": "A: 那些是你的花嗎？ B: 不是，那些不是我的花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_9.png"
+      },
+      {
+        "amis": "A: Mamaan kiso ? B: Adada ko fongoh ako.",
+        "chinese": "A: 你怎麼了？ B: 我的頭很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_10.png"
+      },
+      {
+        "amis": "A: Mamaan kiso ? B: Adada ko mata ako.",
+        "chinese": "A: 你怎麼了？ B: 我的眼睛很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_11.png"
+      },
+      {
+        "amis": "A: Kareteng koni parad ? B: Hai, kareteng koni parad.",
+        "chinese": "A: 這張桌子很重嗎？ B: 是/對，這張桌子很重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_12.png"
+      },
+      {
+        "amis": "A: Kareteng koni 'anengan ? B: Caay, kahemaw koni 'anengan.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子很輕。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_13.png"
+      },
+      {
+        "amis": "A: O kohetingay ko posi iso? B: Hai,o kohetingay ko posi ako.",
+        "chinese": "A: 你的貓是黑色的嗎？ B: 是/對，我的貓是黑色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_14.png"
+      },
+      {
+        "amis": "A: Romi'ami'ad minengneng to tilifi cangra? B: Hai,romi'ami'ad minengneng to tilifi cangra.",
+        "chinese": "A: 他們天天看電視嗎？ B: 是/對，他們天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_15.png"
+      },
+      {
+        "amis": "A: Fangcal ko romi'ad anini? B: Hai, fangcal ko romi'ad anini.",
+        "chinese": "A: 今天天氣好嗎？ B: 是/對，今天天氣很好。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/4_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_16.png"
+      },
+      {
+        "amis": "A: Misa'osi kiso ? B: Hai, misa'osi kako.",
+        "chinese": "A: 你在讀書嗎？ B: 是的，我在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_1.png"
+      },
+      {
+        "amis": "A: Misa'osi kiso ? B: Caay, micoka kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我在畫畫。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_2.png"
+      },
+      {
+        "amis": "A: Mafoti' ko safa iso? B: Hai, mafoti' cingra.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 是的，她在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_3.png"
+      },
+      {
+        "amis": "A: Mafoti' ko safa iso? B: Caayay, masakero cingra.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 不是，她在跳舞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_4.png"
+      },
+      {
+        "amis": "A: Misalama kora wawawawa? B: Hai, misalama kora wawawawa.",
+        "chinese": "A: 那些孩子在玩耍嗎？ B: 是/對，那些孩子在玩耍。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_5.png"
+      },
+      {
+        "amis": "A: Romadiw cangra? B: Caayay,misa'osi cangra.",
+        "chinese": "A: 他們在唱歌嗎？ B: 不是，他們在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_6.png"
+      },
+      {
+        "amis": "A: Ma'orad ? B: Hai, ma'orad i matini.",
+        "chinese": "A: 在下雨嗎？ B: 是/對，正在下雨。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_7.png"
+      },
+      {
+        "amis": "A: Ma'orad to ? B: Caayay, masadak to ko cidal!",
+        "chinese": "A: 在下雨嗎？ B: 不，太陽出來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_8.png"
+      },
+      {
+        "amis": "A: Paraid tayra miliso ci akongan kamo? B: Hai, pararid tayra miliso ci akongan kami.",
+        "chinese": "A: 你們常常去探望祖父嗎？ B: 對，我們常常去探望祖父。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_9.png"
+      },
+      {
+        "amis": "A: Mafana' mifaca' to riko' kiso ? B: Hai, mafana' mifaca' kako.",
+        "chinese": "A: 你會洗衣服嗎？ B: 會，我會洗衣服。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_10.png"
+      },
+      {
+        "amis": "A: Mafana' romadiw kora wawawawa ? B: Hai, mafana' romadiw cangra.",
+        "chinese": "A: 那些孩子會唱歌嗎？ B: 是，他們很會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_11.png"
+      },
+      {
+        "amis": "A: Maolah misa'osi kiso ? B: Hai, maolah misa'osi kako.",
+        "chinese": "A: 你喜歡讀書嗎？ B: 是/對，我喜歡讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_12.png"
+      },
+      {
+        "amis": "A: Maolah micoka kora wawa ? B: Hai, maolah micoka cingra.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 是/對，他很喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_13.png"
+      },
+      {
+        "amis": "A: Maolah romadiw kora wawawawa ? B: Hai, maolah romadiw cangra.",
+        "chinese": "A: 那些孩子喜歡唱歌嗎？ B: 是，他們喜歡唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_14.png"
+      },
+      {
+        "amis": "A: Maolah masakero kora wawawawa ? B: Caayay, maolah minengneng to tilifi cangra.",
+        "chinese": "A: 那些孩子喜歡跳舞嗎？ B: 不，他們喜歡看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_15.png"
+      },
+      {
+        "amis": "A: Maolah misalama kora wawawawa? B: Caayay, maolah komaen cangra.",
+        "chinese": "A: 那些孩子喜歡玩耍嗎？ B: 不，他們喜歡吃東西。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/coast/5_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_16.png"
+      }
+    ],
+    "馬蘭阿美語": [
+      {
+        "amis": "A: O mitiliday kiso haw? B: Hay, o mitiliday kako.",
+        "chinese": "A: 你是學生嗎？ B: 是，我是學生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_1.png"
+      },
+      {
+        "amis": "A: O singsi ko mira haw? B: Cowa, o ising ko mira.",
+        "chinese": "A: 他是老師嗎？ B: 不是，他是醫生。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_2.png"
+      },
+      {
+        "amis": "A: O singsi iso ko mira haw? B: Hay, o singsi ako ko mira.",
+        "chinese": "A: 他是你的老師嗎？ B: 是/對，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_3.png"
+      },
+      {
+        "amis": "A: O faki iso ko mira haw? B: Cowa, o singsi ako ko mira.",
+        "chinese": "A: 他是你的叔叔嗎？ B: 不是，他是我的老師。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_4.png"
+      },
+      {
+        "amis": "A: Ccayay ko safa iso to fafahiyan haw? B: Cowa, tosaay ko safa ako to fafahiyan.",
+        "chinese": "A: 你有一個妹妹嗎？ B: 不，我有二個妹妹。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_5.png"
+      },
+      {
+        "amis": "A: Tosaay ko safa iso to fa'inayan haw? B: Cowa, ccayay ko kaka ako to fa'inayan, ccayay ko safa ako to fa'inayan.",
+        "chinese": "A: 你有兩個弟弟嗎？ B: 不，我有一個哥哥一個弟弟。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_6.png"
+      },
+      {
+        "amis": "A: Tosaay ko kaka iso to fafahiyan haw? B: Cowa, ccayay ko kaka ako to fafahiyan, ccayay ko kaka ako to fa'inayan.",
+        "chinese": "A: 你有兩個姊姊嗎？ B: 不，我有一個姊姊一個哥哥。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_7.png"
+      },
+      {
+        "amis": "A: O payso ako koni haw? B: Hay, o payso iso koni.",
+        "chinese": "A: 這是我的錢嗎？ B: 是的，這是你的錢。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_8.png"
+      },
+      {
+        "amis": "A: O falo iso kora haw? B: Cowa, cowa ko falo ako kora.",
+        "chinese": "A: 那些是你的花嗎？ B: 不是，那些不是我的花。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_9.png"
+      },
+      {
+        "amis": "A: Mamaanay kiso? B: Adadaay ko fongoh no mako.",
+        "chinese": "A: 你怎麼了？ B: 我的頭很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_10.png"
+      },
+      {
+        "amis": "A: Mamaanay kiso? B: Adadaay ko mata no mako.",
+        "chinese": "A: 你怎麼了？ B: 我的眼睛很痛。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_11.png"
+      },
+      {
+        "amis": "A: Karetengay koni cokowi haw? B: Hay, karetengay koni cokowi.",
+        "chinese": "A: 這張桌子很重嗎？ B: 是/對，這張桌子很重。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_12.png"
+      },
+      {
+        "amis": "A: Karetengay kora hakenang haw? B: Cowa, kahemaway kora hakenang.",
+        "chinese": "A: 那張椅子很重嗎？ B: 不，那張椅子很輕。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_13.png"
+      },
+      {
+        "amis": "A: O kohetingay ko posi iso haw? B: Hay, o kohetingay ko posi ako.",
+        "chinese": "A: 你的貓是黑色的嗎？ B: 是/對，我的貓是黑色的。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_14.png"
+      },
+      {
+        "amis": "A: Minengnengay camira to tilifi to romiamiad haw? B: Hay, minengnengay camira to tilifi to romiamiad.",
+        "chinese": "A: 他們天天看電視嗎？ B: 是/對，他們天天看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_15.png"
+      },
+      {
+        "amis": "A: Makapahay ko romiad anini haw? B: Hay, makapahay ko romiad anini.",
+        "chinese": "A: 今天天氣好嗎？ B: 是/對，今天天氣很好。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/4_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/4_16.png"
+      },
+      {
+        "amis": "A: Mitiliday kiso haw? B: Hay, mitiliday kako.",
+        "chinese": "A: 你在讀書嗎？ B: 是的，我在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_1.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_1.png"
+      },
+      {
+        "amis": "A: Mitiliday kiso haw? B: Cowa, micongaay kako.",
+        "chinese": "A: 你在讀書嗎？ B: 不，我在畫畫。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_2.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_2.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafahiyan a safa iso haw? B: Hay, mafoti'ay ko mira.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 是的，她在睡覺。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_3.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_3.png"
+      },
+      {
+        "amis": "A: Mafoti'ay ko fafahiyan a safa iso haw? B: Cowa, makeroay ko mira.",
+        "chinese": "A: 你妹妹在睡覺嗎？ B: 不是，她在跳舞。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_4.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_4.png"
+      },
+      {
+        "amis": "A: Misalamaay koranan a wawa haw? B: Hay, misalamaay koranan a wawa.",
+        "chinese": "A: 那些孩子在玩耍嗎？ B: 是/對，那些孩子在玩耍。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_5.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_5.png"
+      },
+      {
+        "amis": "A: Lomadiway camira haw? B: Cowa, mitiliday camira.",
+        "chinese": "A: 他們在唱歌嗎？ B: 不是，他們在讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_6.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_6.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw? B: Hay, ma'oraday.",
+        "chinese": "A: 在下雨嗎？ B: 是/對，正在下雨。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_7.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_7.png"
+      },
+      {
+        "amis": "A: Ma'oraday haw? B: Cowa, masadakayto ko cidal.",
+        "chinese": "A: 在下雨嗎？ B: 不，太陽出來了！",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_8.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_8.png"
+      },
+      {
+        "amis": "A: Malaliday miliso' to fofoan kamo haw? B: Hay, malaliday miliso' to fofo kami.",
+        "chinese": "A: 你們常常去探望祖父嗎？ B: 對，我們常常去探望祖父。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_9.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_9.png"
+      },
+      {
+        "amis": "A: Mafana'ay mifaca' to riko' kiso haw? B: Hay, mafana'ay mifaca' to riko' kako.",
+        "chinese": "A: 你會洗衣服嗎？ B: 會，我會洗衣服。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_10.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_10.png"
+      },
+      {
+        "amis": "A: Mafana'ay lomadiw koranan a wawa haw? B: Hay, mafana'ay camira a lomadiw.",
+        "chinese": "A: 那些孩子會唱歌嗎？ B: 是，他們很會唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_11.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_11.png"
+      },
+      {
+        "amis": "A: Maolahay a mitilid kiso haw? B: Hay, maolahay kako a mitilid.",
+        "chinese": "A: 你喜歡讀書嗎？ B: 是/對，我喜歡讀書。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_12.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_12.png"
+      },
+      {
+        "amis": "A: Maolahay miconga kora wawa haw? B: Hay, maolahay miconga ko mira.",
+        "chinese": "A: 那個孩子喜歡畫圖嗎？ B: 是/對，他很喜歡畫圖。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_13.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_13.png"
+      },
+      {
+        "amis": "A: Maolahay a lomadiw koranan a wawa haw? B: Hay, maolahay camira a lomadiw.",
+        "chinese": "A: 那些孩子喜歡唱歌嗎？ B: 是，他們喜歡唱歌。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_14.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_14.png"
+      },
+      {
+        "amis": "A: Maolahay makero koranan a wawa haw? B: Cowa, maolahay minengneng to tilifi camira.",
+        "chinese": "A: 那些孩子喜歡跳舞嗎？ B: 不，他們喜歡看電視。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_15.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_15.png"
+      },
+      {
+        "amis": "A: Maolahay misalama koranan a wawa haw? B: Cowa, maolahay camira a komaen to kakaenen.",
+        "chinese": "A: 那些孩子喜歡玩耍嗎？ B: 不，他們喜歡吃東西。",
+        "sound": "https://res.cloudinary.com/dm1ksvptk/video/upload/amis/choice_one/yes_no_question/malan/5_16.mp3",
+        "image": "https://klokah.tw/extension/sp_senior/graphics_100x100/choiceOne/5_16.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1004 @@
+
+    topic9: {
+        id: "topic9",
+        title: "秀姑巒阿美語 動物主題（基本詞彙版）",
+        sentences: ["O maan konini? (這是什麼?)","Mafana' kiso to nini? (你知道這個嗎?)","Samanen ko ngiha' nonini? (這個怎麼叫?)"],
+        dicePrompts: ["ira ko...","ira ko...","ira ko..."],
+        gridData: {
+          "a": {
+                    "amis": "waco",
+                    "chinese": "狗",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_1.mp3",
+                    "color": "#bae6fd"
+          },
+          "b": {
+                    "amis": "posi",
+                    "chinese": "貓",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_2.mp3",
+                    "color": "#ffe8b3"
+          },
+          "c": {
+                    "amis": "fafoy",
+                    "chinese": "豬",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_3.mp3",
+                    "color": "#fb8c00"
+          },
+          "d": {
+                    "amis": "kolong",
+                    "chinese": "牛",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_4.mp3",
+                    "color": "#e63946"
+          },
+          "e": {
+                    "amis": "siri",
+                    "chinese": "羊",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_5.mp3",
+                    "color": "#f48fb1"
+          },
+          "f": {
+                    "amis": "lotong",
+                    "chinese": "猴",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_6.mp3",
+                    "color": "#66bb6a"
+          },
+          "g": {
+                    "amis": "edo",
+                    "chinese": "鼠",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_7.mp3",
+                    "color": "#ba68c8"
+          },
+          "h": {
+                    "amis": "koko' / 'ayam",
+                    "chinese": "雞",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_8.mp3",
+                    "color": "#fdd835"
+          },
+          "i": {
+                    "amis": "ayam",
+                    "chinese": "鳥",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_9.mp3",
+                    "color": "#4db6ac"
+          },
+          "j": {
+                    "amis": "foting",
+                    "chinese": "魚",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                    "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_10.mp3",
+                    "color": "#ff8a65"
+          },
+          "o": {
+                    "amis": "takola^ / takora'",
+                    "chinese": "青蛙",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_12.wav",
+                    "color": "#bae6fd"
+          },
+          "p": {
+                    "amis": "ekong",
+                    "chinese": "貓頭鷹",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_13.wav",
+                    "color": "#e63946"
+          },
+          "q": {
+                    "amis": "fao",
+                    "chinese": "蟲",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_17.wav",
+                    "color": "#ba68c8"
+          },
+          "r": {
+                    "amis": "rarokoh",
+                    "chinese": "烏龜",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_18.wav",
+                    "color": "#ffe8b3"
+          },
+          "s": {
+                    "amis": "lawal",
+                    "chinese": "飛鼠",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_20.wav",
+                    "color": "#ba68c8"
+          },
+          "t": {
+                    "amis": "tomay",
+                    "chinese": "熊",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_23.wav",
+                    "color": "#e63946"
+          },
+          "u": {
+                    "amis": "lalangaw/likes",
+                    "chinese": "蒼蠅",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_34.wav",
+                    "color": "#ffe8b3"
+          },
+          "v": {
+                    "amis": "odal",
+                    "chinese": "蜜蜂",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_35.wav",
+                    "color": "#fdd835"
+          },
+          "w": {
+                    "amis": "atikak",
+                    "chinese": "蚯蚓",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_39.wav",
+                    "color": "#e63946"
+          },
+          "x": {
+                    "amis": "afar",
+                    "chinese": "蝦",
+                    "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                    "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_42.wav",
+                    "color": "#ffe8b3"
+          }
+},
+        gridDataByDialect: {
+          "恆春阿美語": {
+                    "a": {
+                              "amis": "takura'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "ngiyaw",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "diyong",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kolong",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lotong",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "^edo",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "koko'",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "futing",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/5/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "waco",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_03.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ekong",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "fao",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarokoh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "lawal",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tomay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "fitengal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "arikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "afar",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/5/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          },
+          "海岸阿美語": {
+                    "a": {
+                              "amis": "waco",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "posi",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "fafoy",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kolong",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lotong",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "edo",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "koko'",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "foting",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/3/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "takola'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_12.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ekong",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "fao",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarokoh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "lawal",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tomay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "odal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "arikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "afar",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/3/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          },
+          "秀姑巒阿美語": {
+                    "a": {
+                              "amis": "waco",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "posi",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "fafoy",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kolong",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lotong",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "edo",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "koko' / 'ayam",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "foting",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "takola^ / takora'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_12.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ekong",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "fao",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarokoh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "lawal",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tomay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw/likes",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "odal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "atikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "afar",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          },
+          "南勢阿美語": {
+                    "a": {
+                              "amis": "wacu",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "nani",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "vavuy",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "rarapa",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "ungay",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "edu",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "ayam",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "vuting",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/1/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "tatakula'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_12.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "tuul",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "cirekay",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarukuh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "rapic",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tumay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "udal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "atikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "urang",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/1/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          },
+          "馬蘭阿美語": {
+                    "a": {
+                              "amis": "waco",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "posi",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "diyong / fafoy",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kolong",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lotong",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "kacingcon",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "koko'",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "foting",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/4/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "takora'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_12.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ekong",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "fao",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarokoh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "lawal",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tomay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "facacenal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "arikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "afar",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/4/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          },
+          "預設": {
+                    "a": {
+                              "amis": "waco",
+                              "chinese": "狗",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769546397/%E7%8B%97_puoq3v.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_1.mp3",
+                              "color": "#bae6fd"
+                    },
+                    "b": {
+                              "amis": "posi",
+                              "chinese": "貓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742400/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075941_gmvu30.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_2.mp3",
+                              "color": "#ffe8b3"
+                    },
+                    "c": {
+                              "amis": "fafoy",
+                              "chinese": "豬",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742009/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075223_yc4avu.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_3.mp3",
+                              "color": "#fb8c00"
+                    },
+                    "d": {
+                              "amis": "kolong",
+                              "chinese": "牛",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742796/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080620_clolxm.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_4.mp3",
+                              "color": "#e63946"
+                    },
+                    "e": {
+                              "amis": "siri",
+                              "chinese": "羊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742310/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_075753_zehkvt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_5.mp3",
+                              "color": "#f48fb1"
+                    },
+                    "f": {
+                              "amis": "lotong",
+                              "chinese": "猴",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742683/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080330_gb8dql.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_6.mp3",
+                              "color": "#66bb6a"
+                    },
+                    "g": {
+                              "amis": "edo",
+                              "chinese": "鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743269/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081341_iy0h1l.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_7.mp3",
+                              "color": "#ba68c8"
+                    },
+                    "h": {
+                              "amis": "koko' / 'ayam",
+                              "chinese": "雞",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774742829/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_080658_gttt9q.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_8.mp3",
+                              "color": "#fdd835"
+                    },
+                    "i": {
+                              "amis": "ayam",
+                              "chinese": "鳥",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743163/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081223_x4kdr3.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_9.mp3",
+                              "color": "#4db6ac"
+                    },
+                    "j": {
+                              "amis": "foting",
+                              "chinese": "魚",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1769579622/%E9%AD%9A_2_dnf6jt.png",
+                              "sound": "https://klokah.tw/extension/sp_junior/sound/2/1word/8_10.mp3",
+                              "color": "#ff8a65"
+                    },
+                    "o": {
+                              "amis": "takola^ / takora'",
+                              "chinese": "青蛙",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743425/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081617_r9xzk3.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_12.wav",
+                              "color": "#bae6fd"
+                    },
+                    "p": {
+                              "amis": "ekong",
+                              "chinese": "貓頭鷹",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743357/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081541_hh9zgt.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_13.wav",
+                              "color": "#e63946"
+                    },
+                    "q": {
+                              "amis": "fao",
+                              "chinese": "蟲",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943158/Gemini_Generated_Image_sj3aunsj3aunsj3a_zoxmds.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_17.wav",
+                              "color": "#ba68c8"
+                    },
+                    "r": {
+                              "amis": "rarokoh",
+                              "chinese": "烏龜",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943246/Gemini_Generated_Image_if9kfmif9kfmif9k_ygnqux.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_18.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "s": {
+                              "amis": "lawal",
+                              "chinese": "飛鼠",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743525/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081829_s3cmdk.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_20.wav",
+                              "color": "#ba68c8"
+                    },
+                    "t": {
+                              "amis": "tomay",
+                              "chinese": "熊",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743569/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_081918_lle6ha.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_23.wav",
+                              "color": "#e63946"
+                    },
+                    "u": {
+                              "amis": "lalangaw/likes",
+                              "chinese": "蒼蠅",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743721/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082148_dofyif.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_34.wav",
+                              "color": "#ffe8b3"
+                    },
+                    "v": {
+                              "amis": "odal",
+                              "chinese": "蜜蜂",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743795/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082256_nsisfq.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_35.wav",
+                              "color": "#fdd835"
+                    },
+                    "w": {
+                              "amis": "atikak",
+                              "chinese": "蚯蚓",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1778943498/Gemini_Generated_Image_c5ix70c5ix70c5ix_m8p1bx.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_39.wav",
+                              "color": "#e63946"
+                    },
+                    "x": {
+                              "amis": "afar",
+                              "chinese": "蝦",
+                              "image": "https://res.cloudinary.com/dm1ksvptk/image/upload/v1774743873/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2026-03-29_082414_tuluq4.png",
+                              "sound": "https://web.klokah.tw/vocabulary/audio/word/2/07_42.wav",
+                              "color": "#ffe8b3"
+                    }
+          }
+}
+    }
+    
