@@ -181,7 +181,78 @@ const AutoText = ({ text, textColor, children }: { text?: string, textColor?: st
     );
 };
 
-export default function MonopolyGame() {
+const SITE_PASSWORD = '0901';
+const PASSWORD_STORAGE_KEY = 'pangcah-monopoly-unlocked';
+
+function PasswordGate() {
+  const [isUnlocked, setIsUnlocked] = useState(() => {
+    try {
+      return localStorage.getItem(PASSWORD_STORAGE_KEY) === 'true';
+    } catch {
+      return false;
+    }
+  });
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+
+  const unlockSite = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
+    if (password.trim() === SITE_PASSWORD) {
+      try {
+        localStorage.setItem(PASSWORD_STORAGE_KEY, 'true');
+      } catch {
+        // Ignore storage errors and unlock for the current session.
+      }
+      setIsUnlocked(true);
+      return;
+    }
+    setError('密碼錯誤，目前網站尚未開放。');
+  };
+
+  if (isUnlocked) {
+    return <MonopolyGame />;
+  }
+
+  return (
+    <main className="min-h-screen bg-slate-950 text-white flex items-center justify-center p-6">
+      <div className="w-full max-w-md bg-white text-slate-900 rounded-3xl shadow-2xl border-4 border-amber-400 p-8">
+        <div className="text-center mb-6">
+          <div className="text-5xl mb-4">🔒</div>
+          <h1 className="text-3xl font-black mb-2">族語大富翁目前未開放</h1>
+          <p className="text-slate-600 font-bold leading-relaxed">
+            請輸入老師提供的密碼後進入。
+          </p>
+        </div>
+        <form onSubmit={unlockSite} className="space-y-4">
+          <input
+            type="password"
+            value={password}
+            onChange={(event) => {
+              setPassword(event.target.value);
+              setError('');
+            }}
+            placeholder="請輸入密碼"
+            className="w-full rounded-2xl border-4 border-slate-900 px-5 py-4 text-xl font-bold text-center outline-none focus:border-amber-500"
+            autoFocus
+          />
+          {error && (
+            <p className="text-red-600 font-black text-center">{error}</p>
+          )}
+          <button
+            type="submit"
+            className="w-full rounded-2xl bg-amber-400 hover:bg-amber-300 border-4 border-slate-900 px-5 py-4 text-xl font-black shadow-[4px_4px_0_#0f172a] active:translate-x-1 active:translate-y-1 active:shadow-none transition-all"
+          >
+            進入網站
+          </button>
+        </form>
+      </div>
+    </main>
+  );
+}
+
+export default PasswordGate;
+
+function MonopolyGame() {
   const [user, setUser] = useState<FirebaseUser | null>(null);
   const [gameState, setGameState] = useState<GameState>({
     players: [],
